@@ -1,0 +1,10 @@
+{
+  "image": {
+    "filename": "favicon-192.png",
+    "height": 192,
+    "width": 192
+  },
+  "title": "An accessible toggle",
+  "description": "I’m Kitty Giraudel, a non-binary web developer based in Berlin, focused on accessibility and inclusivity.",
+  "siteName": "kittygiraudel.com"
+}

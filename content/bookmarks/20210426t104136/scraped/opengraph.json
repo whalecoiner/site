@@ -1,0 +1,11 @@
+{
+  "image": {
+    "filename": "cryptomining-1.png",
+    "type": "png",
+    "height": "304",
+    "width": "1015"
+  },
+  "title": "Crypto miners are killing free CI",
+  "description": "CI providers like GitLab, TravisCI, and Shippable are all worsening or shutting down their free tiers due to cryptocurrency mining attacks.",
+  "siteName": "The LayerCI Blog"
+}

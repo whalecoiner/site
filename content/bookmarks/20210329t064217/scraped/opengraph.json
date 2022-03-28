@@ -1,0 +1,11 @@
+{
+  "image": {
+    "filename": "screenshot.png",
+    "type": "png",
+    "height": 1685,
+    "width": 2048
+  },
+  "title": "Favorite JavaScript utilities in single line of code",
+  "description": "Favorite JavaScript utilities in single line of code",
+  "siteName": "1 LOC"
+}

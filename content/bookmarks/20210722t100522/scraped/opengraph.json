@@ -1,0 +1,11 @@
+{
+  "image": {
+    "filename": "all_basic.png",
+    "type": "png",
+    "height": 384,
+    "width": 540
+  },
+  "title": "bliki: PresentationDomainDataLayering",
+  "description": "Layering a system into presentation (UI), domain logic, and data access. This layering is useful but should not used for the higher modules of larger systems.",
+  "siteName": "martinfowler.com"
+}

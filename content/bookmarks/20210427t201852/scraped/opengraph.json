@@ -1,0 +1,10 @@
+{
+  "image": {
+    "filename": "homebridge-tesvor",
+    "height": "600",
+    "width": "1200"
+  },
+  "title": "marcelkordek/homebridge-tesvor",
+  "description": "This is a plugin for Homebridge to control your Tesvor Cleaning Vacuum - marcelkordek/homebridge-tesvor",
+  "siteName": "GitHub"
+}

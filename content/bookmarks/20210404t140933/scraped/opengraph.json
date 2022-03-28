@@ -1,0 +1,11 @@
+{
+  "image": {
+    "filename": "kretes-header.jpg",
+    "type": "jpg",
+    "height": "720",
+    "width": "1280"
+  },
+  "title": "Rewritten in Rust: Modern Alternatives of Command-Line Tools",
+  "description": "Zaiste Programming is a personal website by Jakub Neander about programming. It covers Java, Ruby, Python, JavaScript, Node.js, Clojure, Dart, Flutter and more.",
+  "siteName": "zaiste.net"
+}

@@ -1,0 +1,11 @@
+{
+  "image": {
+    "filename": "cover.jpg",
+    "type": "jpg",
+    "height": 998,
+    "width": 1331
+  },
+  "title": "Explaining Variable",
+  "description": "An Explaining Variable is a code-level pattern which reduces the need for code comments, making your software a little more self-documenting.",
+  "siteName": "Pete Hodgson"
+}

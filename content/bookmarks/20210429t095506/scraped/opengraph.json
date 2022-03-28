@@ -1,0 +1,11 @@
+{
+  "image": {
+    "filename": "csshell_logo.png",
+    "type": "png",
+    "height": 419,
+    "width": 800
+  },
+  "title": "CSS Hell  - To Hell with bad CSS!",
+  "description": "Collection of common CSS mistakes, and how to fix them ",
+  "siteName": "CSS Hell"
+}

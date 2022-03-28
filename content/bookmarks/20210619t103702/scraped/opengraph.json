@@ -1,0 +1,10 @@
+{
+  "image": {
+    "filename": "open-graph.jpg",
+    "type": "image/jpeg",
+    "height": "646",
+    "width": "1500"
+  },
+  "title": "UTC is Enough for Everyone, Right?",
+  "description": "Programming with dates, times, and timezones is hard. But here's some help."
+}
