@@ -4,7 +4,7 @@ layout: layouts/base.njk
 {# Only include the syntax highlighter CSS on blog posts #}
 {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %}
 {%- css %}{% include "public/css/prism-diff.css" %}{%- endcss %}
-<h1>{{ title }}</h1>
+<h1>📌 {{ title }}</h1>
 
 <ul class="post-metadata">
 	<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
@@ -15,6 +15,8 @@ layout: layouts/base.njk
 </ul>
 
 {{ content | safe }}
+
+<p><a href="{{ bookmark_of }}">Link to original</a>.</p>
 
 
 {%- if collections.bookmarks %}
