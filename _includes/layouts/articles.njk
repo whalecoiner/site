@@ -16,13 +16,9 @@ layout: layouts/base.njk
 
 {{ content | safe }}
 
-<ul>
-{%- for post in collections.articles -%}
-  <li><a href="{{ post.url }}">{{ post.data.title }}</a> - {{ post.page.date }}
-  <br> {{post.data.strapline }}
-  </li>
-{%- endfor -%}
-</ul>
+{% set postslist = collections.articles %}
+{% include "postslist.njk" %}
+
 
 {%- if collections.articles %}
 {%- set previousPost = collections.articles | getPreviousCollectionItem %}
