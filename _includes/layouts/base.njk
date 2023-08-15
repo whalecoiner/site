@@ -33,7 +33,7 @@
 		{#- Renders the CSS bundle using a separate file, if you can't set CSP directive style-src: 'unsafe-inline' #}
 		{#- <link rel="stylesheet" href="{% getBundleFileUrl "css" %}"> #}
 	</head>
-	<body>
+	<body class="h-entry">
 		<a href="#skip" class="visually-hidden">Skip to main content</a>
 
 		<header>
@@ -51,7 +51,9 @@
 		</header>
 
 		<main id="skip">
-			{{ content | safe }}
+			<div class="e-content">
+{{ content | safe }}
+</div>
 		</main>
 
 		<footer></footer>
