@@ -2,6 +2,7 @@
 title: Hi there, I'm Charlie
 created: '2020-02-1T12:00:00+00:00'
 updated: '2020-11-30T09:23:00+00:00'
+layout: layouts/home.njk
 ---
 
 Keep it simple, sasa que?

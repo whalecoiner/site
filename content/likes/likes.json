@@ -1,0 +1,5 @@
+{
+  "tags": "likes",
+  "date": "git Created",
+  "layout": "layouts/like.njk"
+}

@@ -1,7 +1,11 @@
 ---
 title: Check-ins
-created: 2020-06-03T12:00 
+created: 2020-06-03T12:00
 updated: 2020-06-03T12:00
+layout: layouts/checkins.njk
+eleventyNavigation:
+  key: Check-Ins
+  order: 2
 ---
 
 A small side project to log where I go.

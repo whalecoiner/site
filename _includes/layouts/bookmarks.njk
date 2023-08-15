@@ -16,9 +16,9 @@ layout: layouts/base.njk
 
 {{ content | safe }}
 
-{% set postslist = collections.articles %}
+{% set postslist = collections.bookmarks %}
 {% include "postslist.njk" %}
 
 <div>
-	{{ collections.articles | debug | safe }}
+	{{ collections.bookmarks | debug | safe }}
 </div>
