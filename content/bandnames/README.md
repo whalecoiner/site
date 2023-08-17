@@ -1,7 +1,9 @@
 ---
-title: Band names
-date: '2020-08-07T12:00'
-updated: '2020-08-07T12:00'
+title: Names for bands
+layout: layouts/bandnames.njk
+eleventyNavigation:
+  key: Bandnames
+  order: 2
 ---
 
 Original and amazing band names.

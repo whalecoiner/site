@@ -1,0 +1,5 @@
+{
+  "tags": "bookmarks",
+  "layout": "layouts/bookmark.njk",
+  "permalink": "{{ page.filePathStem | dropItemsDir }}/index.html"
+}

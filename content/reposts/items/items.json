@@ -1,0 +1,5 @@
+{
+  "tags": "reposts",
+  "layout": "layouts/repost.njk",
+  "permalink": "{{ page.filePathStem | dropItemsDir }}/index.html"
+}

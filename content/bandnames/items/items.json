@@ -1,0 +1,5 @@
+{
+  "layout": "layouts/bandname.njk",
+  "tags": "bandnames",
+  "permalink": "{{ page.filePathStem | dropItemsDir }}/index.html"
+}
