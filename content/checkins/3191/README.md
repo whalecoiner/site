@@ -1,7 +1,7 @@
 ---
 guid: c3a37131-a9ea-40b7-9d7f-b19d1fda75ae
 title: 'Checked in at Polish Lody, Wroclaw'
-created: '2019-09-11T09:22:45+00:00'
+date: '2019-09-11T09:22:45+00:00'
 changed: '2019-09-24T19:17:15+00:00'
 
 

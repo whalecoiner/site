@@ -1,5 +1,5 @@
 ---
-created: '2021-05-02T12:38:40.973Z'
+date: '2021-05-02T12:38:40.973Z'
 title: Caitlyn Jenner Turned Her Back On Trans Kids To Get Republican Votes
 modified: '2021-05-02T12:40:39.106Z'
 guid: 44155011-a402-42be-80ef-54464ea40f93

@@ -1,7 +1,7 @@
 ---
 guid: 9f7bb1a4-18fc-4626-8786-5e54ef50f3e1
 title: Salty JavaScript analogy - HankChizlJaw
-created: '2018-09-23T18:17:28+00:00'
+date: '2018-09-23T18:17:28+00:00'
 changed: '2019-09-24T14:33:40+00:00'
 
 

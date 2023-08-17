@@ -3,7 +3,7 @@ guid: 9b5b0a2e-632f-47ff-9418-fc21f2c28606
 title: >-
   To decarbonize we must decomputerize: why we need a Luddite revolution |
   Technology | The Guardian
-created: '2019-09-18T20:28:11+00:00'
+date: '2019-09-18T20:28:11+00:00'
 changed: '2019-09-24T14:32:02+00:00'
 
 

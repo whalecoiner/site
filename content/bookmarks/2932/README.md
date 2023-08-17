@@ -1,7 +1,7 @@
 ---
 guid: bbea7608-53d7-4ab8-bb52-aab2b2996acc
 title: Netlify Analytics - Accurate insights without performance impacts
-created: '2019-07-10T15:04:36+00:00'
+date: '2019-07-10T15:04:36+00:00'
 changed: '2019-09-24T14:32:20+00:00'
 
 

@@ -7,7 +7,7 @@ bookmark_of: >-
 tags:
   - Tech
   - Nazis
-created: '2021-01-13T14:48:47.676Z'
+date: '2021-01-13T14:48:47.676Z'
 modified: '2021-01-13T14:48:47.676Z'
 guid: 358a295b-b816-4fdd-9873-830aba90062c
 ---

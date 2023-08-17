@@ -1,7 +1,7 @@
 ---
 guid: bb249d84-326e-40c1-9fe4-a67cdadfbe4e
 title: 'Adactio: Journal—Principle'
-created: '2019-07-31T10:13:22+00:00'
+date: '2019-07-31T10:13:22+00:00'
 changed: '2019-09-24T14:32:13+00:00'
 
 

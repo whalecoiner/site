@@ -4,7 +4,7 @@ bookmark_of: >-
 title: 'Why it''s good for users that HTML, CSS and JS are separate languages'
 tags:
   - 'Tech, web, html, CSS, JavaScript'
-created: '2020-11-26T07:33:14.283Z'
+date: '2020-11-26T07:33:14.283Z'
 modified: '2020-11-26T07:33:14.283Z'
 ---
  

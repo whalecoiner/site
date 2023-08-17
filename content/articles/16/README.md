@@ -2,7 +2,7 @@
 guid: fa600935-231a-4202-ac05-11da9a6b8785
 title: Categorising front end ticket severity
 slug: categorising-ticket-severity-frontend-work
-created: '2013-10-03T09:00:00+00:00'
+date: '2013-10-03T09:00:00+00:00'
 changed: '2019-09-24T19:20:54+00:00'
 strapline: Ticket severity seems to be orientated towards backend projects.
 ---

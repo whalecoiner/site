@@ -2,7 +2,7 @@
 guid: 5403e76f-d736-4787-bfee-2b493a9b3684
 title: Beyond Tellerrand Düsseldorf 2019
 slug: beyond-tellerrand-dusseldorf-2019
-created: '2019-05-14T09:32:50+00:00'
+date: '2019-05-14T09:32:50+00:00'
 changed: '2019-09-24T19:20:44+00:00'
 strapline: 'I''m keeping some live notes for Beyond Tellerrand Düsseldorf 2019. #btconf'
 ---

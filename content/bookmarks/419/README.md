@@ -1,7 +1,7 @@
 ---
 guid: 98a8f2be-0f98-46cd-89d0-e09577f7838d
 title: Do you really understand CSS linear-gradients?
-created: '2016-10-27T12:08:47+00:00'
+date: '2016-10-27T12:08:47+00:00'
 changed: '2019-09-24T14:35:20+00:00'
 
 

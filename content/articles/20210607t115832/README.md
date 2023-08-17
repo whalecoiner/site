@@ -1,5 +1,5 @@
 ---
-created: '2021-06-07T11:58:32.645Z'
+date: '2021-06-07T11:58:32.645Z'
 modified: '2021-06-07T12:20:21.938Z'
 guid: 8004f310-ffdd-45ca-b9cd-50294ce000d9
 title: A complaint to The Guardian about their rampant transphobia

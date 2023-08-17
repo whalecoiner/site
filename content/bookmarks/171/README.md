@@ -1,7 +1,7 @@
 ---
 guid: 72f9048c-ca45-4c5a-846e-eea92da0b651
 title: The power of progressive enhancement
-created: '2018-08-15T16:40:56+00:00'
+date: '2018-08-15T16:40:56+00:00'
 changed: '2019-09-24T14:33:51+00:00'
 
 

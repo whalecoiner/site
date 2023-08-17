@@ -1,7 +1,7 @@
 ---
 guid: 08b2b3ad-9e57-497e-982c-3431529a3dff
 title: Battle of the architectures
-created: '2016-10-18T09:09:14+00:00'
+date: '2016-10-18T09:09:14+00:00'
 changed: '2019-09-24T14:35:23+00:00'
 
 

@@ -1,7 +1,7 @@
 ---
 guid: a97b40ee-a797-44a7-ac55-7e85ea7c118d
 title: Facebook lawyer says users "have no expectation of privacy"
-created: '2019-06-01T15:20:35+00:00'
+date: '2019-06-01T15:20:35+00:00'
 changed: '2019-09-24T14:32:36+00:00'
 
 

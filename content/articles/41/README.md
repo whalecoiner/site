@@ -2,7 +2,7 @@
 guid: 50fbb5ef-c8bf-445b-a103-8ffd3f1e1e38
 title: 'User Queries: Returning control to the user'
 slug: user-queries
-created: '2017-01-24T11:00:00+00:00'
+date: '2017-01-24T11:00:00+00:00'
 changed: '2019-09-24T19:20:49+00:00'
 strapline: Give them the power to fuck up in their own way.
 ---

@@ -1,6 +1,6 @@
 ---
 quote_of: 'https://twitter.com/TabitaSurge/status/1361875025402462209?s=09'
-created: '2021-02-17T21:28:21.438Z'
+date: '2021-02-17T21:28:21.438Z'
 modified: '2021-02-17T21:28:21.438Z'
 guid: 3ec571a5-aace-41c7-8047-47e468b8aff2
 quote_of_oembed_twitter: >

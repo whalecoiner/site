@@ -1,7 +1,7 @@
 ---
 guid: a6b80beb-4b68-4895-8bcf-dc2ef9e86f89
 title: When should you be using Web Workers? — DasSur.ma
-created: '2019-06-16T13:04:56+00:00'
+date: '2019-06-16T13:04:56+00:00'
 changed: '2019-09-24T14:32:30+00:00'
 
 

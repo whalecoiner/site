@@ -2,7 +2,7 @@
 guid: c2476b01-82d2-4af1-9a8f-3e459c2e6b20
 title: Week note 2
 slug: week-note-2
-created: '2019-03-17T22:21:07+00:00'
+date: '2019-03-17T22:21:07+00:00'
 changed: '2019-09-24T19:20:44+00:00'
 strapline: Cream teas and döners.
 ---

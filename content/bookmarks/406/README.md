@@ -1,7 +1,7 @@
 ---
 guid: 5cdf9fb4-acb4-4c00-9069-855d1a45a3bc
 title: Cutting the Mustard with CSS Media Queries
-created: '2016-11-23T14:15:53+00:00'
+date: '2016-11-23T14:15:53+00:00'
 changed: '2019-09-24T14:35:16+00:00'
 
 

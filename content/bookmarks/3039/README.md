@@ -1,7 +1,7 @@
 ---
 guid: 5de4f016-160b-40ce-8fb7-7b78dfbbdec9
 title: Alt-Text As Poetry
-created: '2019-08-03T07:40:26+00:00'
+date: '2019-08-03T07:40:26+00:00'
 changed: '2019-09-24T14:32:10+00:00'
 
 

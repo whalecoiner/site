@@ -1,7 +1,7 @@
 ---
 guid: 03425ff5-ee32-4559-be8d-eb3eaaa846ff
 title: Using @font-face | CSS-Tricks
-created: '2017-02-27T19:53:58+00:00'
+date: '2017-02-27T19:53:58+00:00'
 changed: '2019-09-24T14:34:53+00:00'
 
 

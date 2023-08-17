@@ -1,7 +1,7 @@
 ---
 guid: 5b640400-a183-47d9-b991-00a901d47b53
 title: Creating an Accessible Modal Dialog
-created: '2017-08-25T10:21:00+00:00'
+date: '2017-08-25T10:21:00+00:00'
 changed: '2019-09-24T14:34:29+00:00'
 
 

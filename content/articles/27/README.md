@@ -2,7 +2,7 @@
 guid: 04c64c4f-41f3-409f-8c34-a712b153dbe3
 title: Providing a fallback for critical-path CSS
 slug: providing-fallback-criticalpath-css
-created: '2014-11-05T10:00:00+00:00'
+date: '2014-11-05T10:00:00+00:00'
 changed: '2019-09-24T19:20:51+00:00'
 strapline: tl;dr make sure you do it.
 ---

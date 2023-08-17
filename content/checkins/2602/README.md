@@ -1,7 +1,7 @@
 ---
 guid: c8ac1c78-d9cb-4af2-9a6f-11f1c74a4a0a
 title: 'Checked in at Trivago, Dusseldorf'
-created: '2019-05-15T09:07:45+00:00'
+date: '2019-05-15T09:07:45+00:00'
 changed: '2019-09-24T19:17:35+00:00'
 
 

@@ -1,7 +1,7 @@
 ---
 guid: 533e5678-ffcf-494e-90ea-d6b43e27ca67
 title: 'The original proposal of the WWW, HTMLized'
-created: '2019-03-28T15:53:40+00:00'
+date: '2019-03-28T15:53:40+00:00'
 changed: '2019-09-24T14:33:02+00:00'
 
 

@@ -1,7 +1,7 @@
 ---
 guid: a8362f10-ff8c-40dc-b8c2-31fa9c2cf593
 title: Revealing Captions for Everyone | scottohara.me
-created: '2014-12-22T17:11:55+00:00'
+date: '2014-12-22T17:11:55+00:00'
 changed: '2019-09-24T14:37:32+00:00'
 
 

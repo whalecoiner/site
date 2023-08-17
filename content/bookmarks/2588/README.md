@@ -1,7 +1,7 @@
 ---
 guid: 8f007fa0-b84b-47bc-a3db-543a60336c66
 title: Columbia & Elm; Fairfield & Gloucester.
-created: '2019-05-14T05:54:04+00:00'
+date: '2019-05-14T05:54:04+00:00'
 changed: '2019-09-24T14:32:43+00:00'
 
 

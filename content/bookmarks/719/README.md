@@ -1,7 +1,7 @@
 ---
 guid: 1b242f1c-643f-4aea-869e-bc562c9f5b65
 title: A Plain English Guide to JavaScript Prototypes - Sebastian's Blog
-created: '2015-01-07T12:53:21+00:00'
+date: '2015-01-07T12:53:21+00:00'
 changed: '2019-09-24T14:37:25+00:00'
 
 

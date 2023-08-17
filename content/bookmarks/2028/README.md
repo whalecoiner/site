@@ -1,7 +1,7 @@
 ---
 guid: 7f27d0f6-43cb-48ae-85b0-c46983c67f3a
 title: 'To Slow Down Climate Change, We Need To Take On Capitalism'
-created: '2018-12-23T10:20:59+00:00'
+date: '2018-12-23T10:20:59+00:00'
 changed: '2019-09-24T14:33:19+00:00'
 
 

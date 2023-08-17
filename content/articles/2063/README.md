@@ -2,7 +2,7 @@
 guid: 4ecc680b-a659-455c-a591-c8aefeba60d9
 title: Microformats
 slug: microformats
-created: '2018-09-21T07:42:00+00:00'
+date: '2018-09-21T07:42:00+00:00'
 changed: '2019-09-24T19:20:46+00:00'
 ---
 

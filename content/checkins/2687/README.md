@@ -1,7 +1,7 @@
 ---
 guid: c0e1dbb7-28f7-4ef3-88c6-93499c15b015
 title: 'Checked in at  Nápoles Central, Naples'
-created: '2019-05-24T17:12:00+00:00'
+date: '2019-05-24T17:12:00+00:00'
 changed: '2019-09-24T19:17:29+00:00'
 
 

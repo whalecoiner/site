@@ -4,7 +4,7 @@ title: >-
   Dear Screen Reader Useres, Since Web developers Can't Automatically Detect If
   You're Using A Screen Reader, Why Don't You Just Hand That Data Over, The
   Apple Edition
-created: '2019-03-28T15:53:46+00:00'
+date: '2019-03-28T15:53:46+00:00'
 changed: '2019-09-24T14:33:02+00:00'
 
 

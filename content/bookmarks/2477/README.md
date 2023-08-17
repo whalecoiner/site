@@ -1,7 +1,7 @@
 ---
 guid: 838bf51a-851c-4635-ace5-0a2219702c64
 title: AddyOsmani.com - Native image lazy-loading for the web!
-created: '2019-04-07T09:18:22+00:00'
+date: '2019-04-07T09:18:22+00:00'
 changed: '2019-09-24T14:32:55+00:00'
 
 

@@ -2,7 +2,7 @@
 guid: 511b5f60-7df0-49d8-ad0b-cbee000f72b4
 title: Using Bootstrap on a large site
 slug: using-bootstrap-large-site
-created: '2014-09-25T09:00:00+00:00'
+date: '2014-09-25T09:00:00+00:00'
 changed: '2019-09-24T19:20:54+00:00'
 strapline: Say you've done this and watch the hordes descend upon you.
 ---

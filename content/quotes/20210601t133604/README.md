@@ -1,6 +1,6 @@
 ---
 quote_of: 'https://twitter.com/exberlinermag/status/1399718971968999425'
-created: '2021-06-01T13:36:04.280Z'
+date: '2021-06-01T13:36:04.280Z'
 modified: '2021-06-01T13:36:04.280Z'
 guid: e21c4624-a553-4ed7-9ef9-fe296900a884
 quote_of_oembed_twitter: >

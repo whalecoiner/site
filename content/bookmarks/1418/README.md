@@ -1,7 +1,7 @@
 ---
 guid: e8fc5aa4-5d33-4509-9a75-2d08bf64a2d3
 title: Building low impact websites | Go Make Things
-created: '2018-10-23T11:06:00+00:00'
+date: '2018-10-23T11:06:00+00:00'
 changed: '2019-09-24T14:33:36+00:00'
 
 

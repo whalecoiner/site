@@ -2,7 +2,7 @@
 title: The reality of "the trans debate"
 hide_from_feed: true
 hide_from_index: true
-created: '2021-02-09T09:12:17.578Z'
+date: '2021-02-09T09:12:17.578Z'
 modified: '2021-02-09T09:12:17.578Z'
 guid: 5e618cf3-58ce-4dc7-975d-cb8ff86261e2
 ---

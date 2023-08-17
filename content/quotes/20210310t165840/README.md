@@ -1,6 +1,6 @@
 ---
 quote_of: 'https://twitter.com/jayneozanne/status/1369690910267674632?s=12'
-created: '2021-03-10T16:58:40.222Z'
+date: '2021-03-10T16:58:40.222Z'
 modified: '2021-03-10T16:58:40.222Z'
 guid: e7746ed5-c668-4f3d-89fd-5e109c879c88
 quote_of_oembed_twitter: >

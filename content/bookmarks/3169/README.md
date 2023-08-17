@@ -1,7 +1,7 @@
 ---
 guid: 058b0d82-a43b-48d4-872e-c2fd3f0da0db
 title: The Browser Monopoly - Blair Reeves
-created: '2019-09-02T06:12:29+00:00'
+date: '2019-09-02T06:12:29+00:00'
 changed: '2019-09-24T14:32:04+00:00'
 
 

@@ -1,6 +1,6 @@
 ---
 title: A note from 2021-01-15
-created: '2021-01-15T12:23:56.428Z'
+date: '2021-01-15T12:23:56.428Z'
 modified: '2021-01-15T12:23:56.428Z'
 guid: d50cbf21-aab9-44a1-862e-a33dae1f25d4
 syndicate_to_twitter: 'true'

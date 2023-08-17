@@ -6,7 +6,7 @@ tags:
   - design
   - interface
   - UX
-created: '2021-01-09T12:50:03.517Z'
+date: '2021-01-09T12:50:03.517Z'
 modified: '2021-01-09T12:50:03.517Z'
 guid: 39e14814-0298-4f75-b822-6d6a3827a534
 ---

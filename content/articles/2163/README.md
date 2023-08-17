@@ -2,7 +2,7 @@
 guid: 31e8ec4e-7fb2-496e-988f-2b026b7a4c4f
 title: Week Note 1
 slug: week-note-01
-created: '2019-03-09T21:51:27+00:00'
+date: '2019-03-09T21:51:27+00:00'
 changed: '2019-09-24T19:20:44+00:00'
 strapline: 'Episode IV: A New Start (at week noting).'
 ---

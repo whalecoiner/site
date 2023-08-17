@@ -1,7 +1,7 @@
 ---
 guid: 14c2b0c9-450c-4c84-8d6f-f56d8fcae861
 title: Maybe You Don’t Need a Date Picker | Adrian Roselli
-created: '2019-07-25T06:31:33+00:00'
+date: '2019-07-25T06:31:33+00:00'
 changed: '2019-09-24T14:32:13+00:00'
 
 

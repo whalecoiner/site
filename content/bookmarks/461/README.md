@@ -1,7 +1,7 @@
 ---
 guid: 2d7251b5-1f36-49e5-aab8-7cdcea54aa2a
 title: The Skeptic’s Guide To Low-Fidelity Prototyping – Smashing Magazine
-created: '2016-05-18T05:45:25+00:00'
+date: '2016-05-18T05:45:25+00:00'
 changed: '2019-09-24T14:35:35+00:00'
 
 

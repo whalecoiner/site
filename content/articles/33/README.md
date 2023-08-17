@@ -2,7 +2,7 @@
 guid: 789d71c2-dd64-4245-b5fe-2589256d8eab
 title: Introducing Loom
 slug: introducing-loom-a-new-framework
-created: '2016-10-03T10:00:00+00:00'
+date: '2016-10-03T10:00:00+00:00'
 changed: '2019-09-24T19:20:49+00:00'
 strapline: A framework that helps you weave your own pattern libraries.
 

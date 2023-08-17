@@ -2,7 +2,7 @@
 guid: e09e7eeb-da6d-4c83-9ff9-709d9ad4b300
 title: React
 slug: react
-created: '2019-08-26T11:12:22+00:00'
+date: '2019-08-26T11:12:22+00:00'
 changed: '2019-09-24T19:20:44+00:00'
 strapline: >-
   Why I have a problem with React the library and spend a lot of time talking to

@@ -2,7 +2,7 @@
 tags:
   - tech
   - IRC
-created: '2021-04-09T15:36:55.735Z'
+date: '2021-04-09T15:36:55.735Z'
 modified: '2021-04-09T15:36:55.735Z'
 guid: 5932f0a5-44e5-43fd-9324-83cd3acafd7b
 ---

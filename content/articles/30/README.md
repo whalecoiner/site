@@ -2,7 +2,7 @@
 guid: 3d8d7d13-7a13-4606-8175-2045ae00f8ab
 title: Ich bin ein Berliner
 slug: berlin
-created: '2015-05-20T22:00:00+00:00'
+date: '2015-05-20T22:00:00+00:00'
 changed: '2019-09-24T19:20:51+00:00'
 strapline: 'No, not a jam doughnut. Come on, we''re past that joke.'
 ---

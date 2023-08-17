@@ -2,7 +2,7 @@
 guid: 3a7b574e-c79c-4a5c-be60-a4124bf1fc45
 title: 'Yes, progressive enhancement is a fucking moral argument'
 slug: progressive-enhancement
-created: '2016-12-06T11:00:00+00:00'
+date: '2016-12-06T11:00:00+00:00'
 changed: '2019-09-24T19:20:49+00:00'
 strapline: 'You don''t get to choose who is viewing your work, you fucking fuck.'
 ---

@@ -1,6 +1,6 @@
 ---
 quote_of: 'https://twitter.com/chican3ry/status/1369332549512749063?s=12'
-created: '2021-03-09T21:24:24.497Z'
+date: '2021-03-09T21:24:24.497Z'
 modified: '2021-03-09T21:24:24.497Z'
 guid: b683b3c1-e79f-48ec-9c01-ed7bcbeb43f4
 quote_of_oembed_twitter: >

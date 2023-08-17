@@ -1,7 +1,7 @@
 ---
 guid: 708d9203-42d0-4a50-b573-a7e365affaea
 title: Introduction - 18F Method Cards
-created: '2018-10-02T07:08:09+00:00'
+date: '2018-10-02T07:08:09+00:00'
 changed: '2019-09-24T14:33:36+00:00'
 
 

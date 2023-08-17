@@ -2,7 +2,7 @@
 guid: ded94354-a7e4-428e-ab7f-60ac3cdc0841
 title: Bootstrap verbosity and mysterious IE problems
 slug: bootstrap-verbosity-and-mysterious-ie-problems
-created: '2014-09-09T09:00:00+00:00'
+date: '2014-09-09T09:00:00+00:00'
 changed: '2019-09-24T19:20:54+00:00'
 strapline: Bootstrap? Verbose? Pull the other one. It has bells on it.
 ---

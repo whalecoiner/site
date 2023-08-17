@@ -2,7 +2,7 @@
 guid: f1ccc1dd-b42b-4677-bad9-8c5d61188aec
 title: Data Visualisations
 slug: data-visualisations
-created: '2015-05-19T10:00:00+00:00'
+date: '2015-05-19T10:00:00+00:00'
 changed: '2019-09-24T19:20:51+00:00'
 strapline: Look at the pretty graphs!
 ---

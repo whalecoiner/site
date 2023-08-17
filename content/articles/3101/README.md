@@ -2,7 +2,7 @@
 guid: 1d3f6986-512e-41cf-a601-a8ec1b839df1
 title: 'Construction work, code, and what we value'
 slug: construction-work-code-and-what-we-value
-created: '2019-08-16T15:02:46+00:00'
+date: '2019-08-16T15:02:46+00:00'
 changed: '2019-09-24T19:20:44+00:00'
 strapline: Code is not the paragon of skills.
 ---

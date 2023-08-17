@@ -1,7 +1,7 @@
 ---
 guid: 6bc26d56-c3db-4514-9211-78f7177bddfd
 title: Truths about digital accessibility | Eric Bailey
-created: '2019-07-29T17:39:33+00:00'
+date: '2019-07-29T17:39:33+00:00'
 changed: '2019-09-24T14:32:13+00:00'
 
 

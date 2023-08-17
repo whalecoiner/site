@@ -1,7 +1,7 @@
 ---
 guid: 4717108a-a0fb-42fb-8eed-bb3b6b34dfcf
 title: 'CSS: A New Kind Of JavaScript'
-created: '2018-07-12T14:40:40+00:00'
+date: '2018-07-12T14:40:40+00:00'
 changed: '2019-09-24T14:33:54+00:00'
 
 

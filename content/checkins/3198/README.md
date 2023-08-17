@@ -1,7 +1,7 @@
 ---
 guid: e11479b1-c720-4687-82fa-4adb78080ddb
 title: 'Checked in at Kontynuacja Bar, Wroclaw'
-created: '2019-09-11T17:11:37+00:00'
+date: '2019-09-11T17:11:37+00:00'
 changed: '2019-09-24T19:17:15+00:00'
 
 

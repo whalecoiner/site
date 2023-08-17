@@ -2,7 +2,7 @@
 guid: 3d145a82-99c3-4921-be26-85bfb9ced1ff
 title: Making this site open
 slug: making-site-open
-created: '2014-10-28T10:00:00+00:00'
+date: '2014-10-28T10:00:00+00:00'
 changed: '2019-09-24T19:20:51+00:00'
 strapline: I'm such a generous soul.
 ---

@@ -1,7 +1,7 @@
 ---
 guid: ae8575f0-a2d0-447b-a87f-86bdb18cd277
 title: The power of progressive enhancement - Andy Bell
-created: '2019-04-06T07:42:22+00:00'
+date: '2019-04-06T07:42:22+00:00'
 changed: '2019-09-24T14:32:55+00:00'
 
 

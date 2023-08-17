@@ -1,5 +1,4 @@
 {
   "tags": "articles",
-  "date": "git Created",
   "layout": "layouts/article.njk"
 }

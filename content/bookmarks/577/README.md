@@ -3,7 +3,7 @@ guid: 4f5c62d6-d991-4d2a-87e7-39c7cca697db
 title: >-
   Must See JavaScript Dev Tools That Put Other Dev Tools to Shame — JavaScript
   Scene — Medium
-created: '2015-11-30T14:36:09+00:00'
+date: '2015-11-30T14:36:09+00:00'
 changed: '2019-09-24T14:36:23+00:00'
 
 

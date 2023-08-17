@@ -1,7 +1,7 @@
 ---
 guid: 10fa7a7f-66d4-4f76-b4af-a574d639b953
 title: Everything Easy is Hard Again – Frank Chimero
-created: '2018-02-18T20:51:22+00:00'
+date: '2018-02-18T20:51:22+00:00'
 changed: '2019-09-24T14:34:10+00:00'
 
 

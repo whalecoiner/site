@@ -1,7 +1,7 @@
 ---
 guid: 72e0f0e1-b1f7-4cf1-b0ed-c5cda1f9420d
 title: The paranoid fantasy behind Brexit | Fintan O'Toole | Politics | The Guardian
-created: '2018-11-16T11:56:36+00:00'
+date: '2018-11-16T11:56:36+00:00'
 changed: '2019-09-24T14:33:33+00:00'
 
 

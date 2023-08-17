@@ -1,7 +1,7 @@
 ---
 guid: f92763ca-7c87-428d-8490-5b14126c3ad3
 title: Accessibility according to actual people with disabilities - Axess Lab
-created: '2017-06-15T13:56:21+00:00'
+date: '2017-06-15T13:56:21+00:00'
 changed: '2019-09-24T14:34:37+00:00'
 
 

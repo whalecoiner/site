@@ -3,7 +3,7 @@ bookmark_of: 'https://www.outlife.org.uk/fs164-gay-men-step-up-and-become-a-tran
 title: 'Gay men: step up and become a trans ally | OutLife'
 tags:
   - ''
-created: '2020-11-27T08:38:58.894Z'
+date: '2020-11-27T08:38:58.894Z'
 modified: '2020-11-27T08:38:58.894Z'
 ---
           

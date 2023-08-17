@@ -5,7 +5,7 @@ tags:
   - tech
   - feminism
   - safety
-created: '2021-03-11T12:24:37.239Z'
+date: '2021-03-11T12:24:37.239Z'
 modified: '2021-03-11T12:24:37.239Z'
 guid: 1c0d8792-b6b4-464a-add3-36bc7757ed34
 ---

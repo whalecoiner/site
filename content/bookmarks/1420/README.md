@@ -1,7 +1,7 @@
 ---
 guid: e5b8f65b-6cf7-4f3a-9c4b-96c8f7b0dd74
 title: The Importance of Heading Levels for Assistive Technology
-created: '2018-10-23T04:20:01+00:00'
+date: '2018-10-23T04:20:01+00:00'
 changed: '2019-09-24T14:33:36+00:00'
 
 

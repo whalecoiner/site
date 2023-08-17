@@ -1,6 +1,6 @@
 ---
 quote_of: 'https://twitter.com/saylahachey/status/1351186765185482753?s=09'
-created: '2021-02-19T07:07:06.063Z'
+date: '2021-02-19T07:07:06.063Z'
 modified: '2021-02-19T07:07:06.063Z'
 guid: 4e29d3c6-639c-4cfb-baaf-683c64c06dc8
 quote_of_oembed_twitter: >

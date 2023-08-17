@@ -1,7 +1,7 @@
 ---
 guid: 8f1ecc33-365e-49f8-9fc7-b8fd73ee48db
 title: The Front-End Spectrum – Medium
-created: '2016-09-12T12:34:26+00:00'
+date: '2016-09-12T12:34:26+00:00'
 changed: '2019-09-24T14:35:27+00:00'
 
 

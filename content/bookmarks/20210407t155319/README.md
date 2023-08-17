@@ -1,5 +1,5 @@
 ---
-created: '2021-04-07T15:53:19.808Z'
+date: '2021-04-07T15:53:19.808Z'
 title: An accessible toggle | Kitty Giraudel
 modified: '2021-04-07T15:53:19.808Z'
 guid: 71649aa2-99e8-4b37-93dd-f147b07c52bd

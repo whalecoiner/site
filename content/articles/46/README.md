@@ -2,7 +2,7 @@
 guid: 56f72994-d2a9-4c48-b9f5-fb2b20fd7850
 title: It's time to say goodbye to Twitter
 slug: abandon-twitter
-created: '2018-09-03T10:00:00+00:00'
+date: '2018-09-03T10:00:00+00:00'
 changed: '2019-09-24T19:20:46+00:00'
 strapline: >-
   Social media has become death by a thousand angry micro-posts. Maybe it's time

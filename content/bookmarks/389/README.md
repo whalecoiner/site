@@ -1,7 +1,7 @@
 ---
 guid: ba846bc2-55b1-47c6-a80d-c620cb8b1914
 title: 10 things your website might be missing – Etch – Medium
-created: '2016-12-06T14:32:04+00:00'
+date: '2016-12-06T14:32:04+00:00'
 changed: '2019-09-24T14:35:08+00:00'
 
 

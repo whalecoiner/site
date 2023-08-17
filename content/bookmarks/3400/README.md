@@ -1,7 +1,7 @@
 ---
 guid: bfe930a5-0644-41ce-8289-2c4a414534c2
 title: 'You really don''t need all that JavaScript, I promise'
-created: '2019-10-08T21:05:16+00:00'
+date: '2019-10-08T21:05:16+00:00'
 changed: '2019-10-08T21:08:22+00:00'
 
 

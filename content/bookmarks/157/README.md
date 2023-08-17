@@ -1,7 +1,7 @@
 ---
 guid: 2eeb813b-beda-4cea-9253-0795282941e2
 title: 'CSS dismissal is about exclusion, not technology'
-created: '2018-09-13T12:36:15+00:00'
+date: '2018-09-13T12:36:15+00:00'
 changed: '2019-09-24T14:33:47+00:00'
 
 

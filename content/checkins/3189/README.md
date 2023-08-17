@@ -1,7 +1,7 @@
 ---
 guid: d00bdf34-a9b2-49b0-9aa5-a577e0c693ff
 title: 'Checked in at Folgujemy Cafe, Wroclaw'
-created: '2019-09-11T06:47:26+00:00'
+date: '2019-09-11T06:47:26+00:00'
 changed: '2019-09-24T19:17:15+00:00'
 
 

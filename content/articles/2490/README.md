@@ -2,7 +2,7 @@
 guid: a58b2f10-33bf-470d-962b-970e0e373da2
 title: Webrings
 slug: webrings
-created: '2019-04-11T13:12:40+00:00'
+date: '2019-04-11T13:12:40+00:00'
 changed: '2019-09-24T19:20:44+00:00'
 strapline: What would it take to bring webrings back?
 ---

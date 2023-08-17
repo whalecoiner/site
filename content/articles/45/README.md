@@ -2,7 +2,7 @@
 guid: 7904a407-123c-4e0e-b451-d29f59fd13a8
 title: Removing Site Tracking
 slug: removing-site-tracking
-created: '2018-08-03T10:00:00+00:00'
+date: '2018-08-03T10:00:00+00:00'
 changed: '2019-09-24T19:20:46+00:00'
 strapline: I don't get paid enough by the NSA
 ---

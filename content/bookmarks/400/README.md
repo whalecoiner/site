@@ -1,7 +1,7 @@
 ---
 guid: 5a753736-1f20-4616-af71-a57de37431c7
 title: From Sketch App to CSS Web Animations | Axosoft
-created: '2016-11-25T13:02:49+00:00'
+date: '2016-11-25T13:02:49+00:00'
 changed: '2019-09-24T14:35:12+00:00'
 
 

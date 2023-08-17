@@ -1,7 +1,7 @@
 ---
 guid: 8bc882c6-f79b-4feb-9025-41f881fa1701
 title: Redesigning your product and website for dark mode — Stuff & Nonsense
-created: '2018-11-12T18:26:40+00:00'
+date: '2018-11-12T18:26:40+00:00'
 changed: '2019-09-24T14:33:33+00:00'
 
 

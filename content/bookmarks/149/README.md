@@ -1,7 +1,7 @@
 ---
 guid: 5f4be709-78c0-4618-82c1-37644169b021
 title: Refresh CSS Bookmarklet v2
-created: '2018-09-19T14:51:19+00:00'
+date: '2018-09-19T14:51:19+00:00'
 changed: '2019-09-24T14:33:43+00:00'
 
 

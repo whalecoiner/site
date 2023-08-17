@@ -2,7 +2,7 @@
 guid: 19eea52d-845f-4881-8a44-189ed8802b17
 title: Sonnie's Edge
 slug: sonniesedge-netflix
-created: '2019-03-18T21:05:22+00:00'
+date: '2019-03-18T21:05:22+00:00'
 changed: '2019-09-24T19:20:44+00:00'
 strapline: What gave Sonnie her Edge on Netflix?
 ---

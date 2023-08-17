@@ -1,7 +1,7 @@
 ---
 guid: 572de752-ef48-433b-aa04-7c995c0acd75
 title: 'Checked in at Witold Peletzki Monument, Wroclaw'
-created: '2019-09-09T15:02:07+00:00'
+date: '2019-09-09T15:02:07+00:00'
 changed: '2019-09-24T19:17:17+00:00'
 
 

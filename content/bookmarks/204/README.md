@@ -1,7 +1,7 @@
 ---
 guid: 0fe6e11f-5e2b-4c24-8ba6-2af928372fd1
 title: 'Adactio: Links—Dear Developer, The Web Isn’t About You | sonniesedge.co.uk'
-created: '2018-04-06T05:53:29+00:00'
+date: '2018-04-06T05:53:29+00:00'
 changed: '2019-09-24T14:34:07+00:00'
 
 

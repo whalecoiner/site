@@ -2,7 +2,7 @@
 guid: 28a42f9b-05e7-4ead-b4ab-cd9309e0d6c4
 title: Some feedback from the Internet of Men
 slug: always-hacking-feedback
-created: '2016-12-30T11:00:00+00:00'
+date: '2016-12-30T11:00:00+00:00'
 changed: '2019-09-24T19:20:49+00:00'
 strapline: 'Thanks for writing in. Sadly, you were wrong.'
 ---

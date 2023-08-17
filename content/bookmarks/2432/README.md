@@ -1,7 +1,7 @@
 ---
 guid: 16e72af2-b237-4c31-a76f-f2738526c07e
 title: Copenhagenize Design Co.
-created: '2019-03-28T12:26:03+00:00'
+date: '2019-03-28T12:26:03+00:00'
 changed: '2019-09-24T14:33:05+00:00'
 
 

@@ -2,7 +2,7 @@
 guid: 1b014af4-db69-4008-ad8f-db884df5a4a6
 title: A day without JavaScript
 slug: a-day-without-javascript
-created: '2017-06-07T10:00:00+00:00'
+date: '2017-06-07T10:00:00+00:00'
 changed: '2019-09-24T19:20:46+00:00'
 strapline: What could go wrong?
 

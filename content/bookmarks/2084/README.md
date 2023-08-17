@@ -1,7 +1,7 @@
 ---
 guid: 47bf7237-d8e6-40f7-9acd-3eae46c5bfe9
 title: Berlin Builds an Arsenal of Ideas to Stage a Housing Revolution
-created: '2019-02-23T09:02:42+00:00'
+date: '2019-02-23T09:02:42+00:00'
 changed: '2019-09-24T14:33:12+00:00'
 
 

@@ -1,7 +1,7 @@
 ---
 guid: 110af9e0-ef03-46e9-b98f-dd243a75980c
 title: Simple & Boring | CSS-Tricks
-created: '2019-03-25T15:54:29+00:00'
+date: '2019-03-25T15:54:29+00:00'
 changed: '2019-09-24T14:33:09+00:00'
 
 

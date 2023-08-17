@@ -1,7 +1,7 @@
 ---
 guid: 845b1ad3-ebef-441a-a09a-59f08140d4b7
 title: Checked in at Brighton "Coach Station"
-created: '2019-06-28T01:04:44+00:00'
+date: '2019-06-28T01:04:44+00:00'
 changed: '2019-09-24T19:17:25+00:00'
 
 

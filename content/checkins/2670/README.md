@@ -1,7 +1,7 @@
 ---
 guid: 48dffede-79fb-4bf0-8bce-e3261126183c
 title: Checked in at Fiocca di neve
-created: '2019-05-23T16:02:13+00:00'
+date: '2019-05-23T16:02:13+00:00'
 changed: '2019-09-24T19:17:31+00:00'
 
 

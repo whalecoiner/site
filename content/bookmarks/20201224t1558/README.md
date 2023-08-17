@@ -1,6 +1,6 @@
 ---
 title: UK and EU agree Brexit trade deal | The Guardian
-created: '2020-12-24T15:58:01.276Z'
+date: '2020-12-24T15:58:01.276Z'
 modified: '2020-12-24T15:58:01.276Z'
 bookmark_of: >-
   https://www.theguardian.com/politics/2020/dec/24/uk-eu-agree-brexit-trade-deal-agreement

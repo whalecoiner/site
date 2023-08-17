@@ -1,7 +1,7 @@
 ---
 guid: 01fd4ab4-fceb-4d76-a5c6-660acc3dd71c
 title: Milligram | A minimalist CSS framework.
-created: '2016-01-26T19:45:16+00:00'
+date: '2016-01-26T19:45:16+00:00'
 changed: '2019-09-24T14:36:14+00:00'
 
 

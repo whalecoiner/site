@@ -1,7 +1,7 @@
 ---
 guid: 982b16f4-b334-4a9b-9513-2693e28a76a1
 title: 'Checked in at Tegel Airport, Berlin'
-created: '2019-05-10T17:30:00+00:00'
+date: '2019-05-10T17:30:00+00:00'
 changed: '2019-09-24T19:17:38+00:00'
 
 

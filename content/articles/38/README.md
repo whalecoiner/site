@@ -2,7 +2,7 @@
 guid: b1bd3690-25c8-4ea8-a7b6-f8664c1577b2
 title: An open letter to the guy who wrote that 'Always Hacking' tweet
 slug: an-open-letter-to-that-always-hacking-guy
-created: '2016-12-27T11:00:00+00:00'
+date: '2016-12-27T11:00:00+00:00'
 changed: '2019-09-24T19:20:49+00:00'
 strapline: 'Seriously dude, what''s wrong with you?'
 ---

@@ -1,7 +1,7 @@
 ---
 title: Tracking SARS-CoV-2 variants
 bookmark_of: 'https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/'
-created: '2021-06-01T09:17:58.452Z'
+date: '2021-06-01T09:17:58.452Z'
 modified: '2021-06-01T09:17:58.452Z'
 guid: 18dd7057-52b1-4e23-ac69-c43c5579025b
 ---

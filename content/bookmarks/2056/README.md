@@ -1,7 +1,7 @@
 ---
 guid: 3940d2b5-52f0-4c72-9a41-6d19fe5bf282
 title: "Bruce Lawson's personal site\_ : Screenreader support for text-level semantics"
-created: '2018-11-02T11:35:16+00:00'
+date: '2018-11-02T11:35:16+00:00'
 changed: '2019-09-24T14:33:33+00:00'
 
 

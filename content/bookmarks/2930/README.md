@@ -1,7 +1,7 @@
 ---
 guid: 30eb44a8-87dc-44f6-a511-166c6746a931
 title: Das Bezirksamt Friedrichshain-Kreuzberg in Leichter Sprache - Berlin.de
-created: '2019-07-09T09:01:19+00:00'
+date: '2019-07-09T09:01:19+00:00'
 changed: '2019-09-24T14:32:20+00:00'
 
 

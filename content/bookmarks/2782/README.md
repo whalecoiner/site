@@ -1,7 +1,7 @@
 ---
 guid: 7eb179b4-1787-4dba-8041-6840b2e96012
 title: Keep it simple - Andy Bell
-created: '2019-06-08T08:08:34+00:00'
+date: '2019-06-08T08:08:34+00:00'
 changed: '2019-09-24T14:32:33+00:00'
 
 

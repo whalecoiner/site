@@ -1,7 +1,7 @@
 ---
 guid: 021147ec-3b88-4aa0-a511-7df832b212ea
 title: Links List for Print Styles | Adrian Roselli
-created: '2018-09-02T12:45:31+00:00'
+date: '2018-09-02T12:45:31+00:00'
 changed: '2019-09-24T14:33:51+00:00'
 
 

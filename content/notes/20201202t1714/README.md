@@ -3,7 +3,7 @@ title: Syndication Feeds!
 tags:
   - syndication
   - IndieWeb
-created: '2020-12-11T08:10:37.617Z'
+date: '2020-12-11T08:10:37.617Z'
 modified: '2020-12-11T08:10:37.617Z'
 ---
 I've got syndication feeds available for this site!

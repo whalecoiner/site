@@ -1,7 +1,7 @@
 ---
 guid: 0bc59ebe-011f-4d6d-aa97-407a303f5f91
 title: How To Kill Your Tech Industry
-created: '2018-09-23T06:48:53+00:00'
+date: '2018-09-23T06:48:53+00:00'
 changed: '2019-09-24T14:33:43+00:00'
 
 

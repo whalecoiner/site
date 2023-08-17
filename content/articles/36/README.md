@@ -2,7 +2,7 @@
 guid: c98c30cf-ee88-4ea1-b2fb-f67b1468c555
 title: 'My favourite UX, design and frontend development podcasts'
 slug: my-favourite-frontend-development-podcasts
-created: '2016-10-29T10:50:00+00:00'
+date: '2016-10-29T10:50:00+00:00'
 changed: '2019-09-24T19:20:49+00:00'
 strapline: aka mouthblogs
 ---

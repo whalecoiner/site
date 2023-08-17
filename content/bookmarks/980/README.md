@@ -3,7 +3,7 @@ guid: 4b52c883-40e7-4019-ba9f-53e77dfd900f
 title: >-
   Part Two — Optimizing The Design Workflow With Fireworks Extensions | Smashing
   Fireworks
-created: '2013-10-18T08:50:07+00:00'
+date: '2013-10-18T08:50:07+00:00'
 changed: '2019-09-24T14:43:49+00:00'
 
 

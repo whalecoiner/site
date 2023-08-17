@@ -1,7 +1,7 @@
 ---
 guid: a4f09c11-ac30-4438-98be-a4141cb97168
 title: Understanding Success Criteria - Acronyms
-created: '2019-06-13T05:53:57+00:00'
+date: '2019-06-13T05:53:57+00:00'
 changed: '2019-09-24T14:32:30+00:00'
 
 

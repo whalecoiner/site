@@ -1,7 +1,7 @@
 ---
 guid: 118b7c0b-5d35-476d-b5a3-b2260131e91f
 title: Remove Richard Stallman - Selam G. - Medium
-created: '2019-09-13T07:25:34+00:00'
+date: '2019-09-13T07:25:34+00:00'
 changed: '2019-09-24T14:32:04+00:00'
 
 

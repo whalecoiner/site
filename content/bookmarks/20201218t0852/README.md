@@ -7,7 +7,7 @@ tags:
   - GitHub
   - gdpr
   - cookies
-created: '2020-12-18T08:52:44.821Z'
+date: '2020-12-18T08:52:44.821Z'
 modified: '2020-12-18T08:52:44.821Z'
 ---
 GitHub got around GDPR rules for showing cookie banners by simply not setting any non-functional cookies. 🎉

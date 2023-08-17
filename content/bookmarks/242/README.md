@@ -4,7 +4,7 @@ title: >-
   sindresorhus/mem: Memoize functions - an optimization technique used to speed
   up consecutive function calls by caching the result of calls with identical
   input
-created: '2018-01-15T12:17:51+00:00'
+date: '2018-01-15T12:17:51+00:00'
 changed: '2019-09-24T14:34:14+00:00'
 
 

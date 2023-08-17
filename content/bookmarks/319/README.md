@@ -4,7 +4,7 @@ title: >-
   Using ARIA to enhance SVG accessibility | The Paciello Group – Your
   Accessibility Partner (WCAG 2.0/508 audits, VPAT, usability and accessible
   user experience)
-created: '2017-05-17T05:55:00+00:00'
+date: '2017-05-17T05:55:00+00:00'
 changed: '2019-09-24T14:34:42+00:00'
 
 

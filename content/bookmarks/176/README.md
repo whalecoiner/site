@@ -1,7 +1,7 @@
 ---
 guid: a3b5d56b-16ab-47ed-90fb-05abcdc9a17a
 title: The Cost Of JavaScript In 2018 – Addy Osmani – Medium
-created: '2018-08-02T04:26:26+00:00'
+date: '2018-08-02T04:26:26+00:00'
 changed: '2019-09-24T14:33:54+00:00'
 
 

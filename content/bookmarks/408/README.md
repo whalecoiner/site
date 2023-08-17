@@ -3,7 +3,7 @@ guid: 182a86a8-2b61-4e92-b409-dd9608c43575
 title: >-
   CSS Inheritance, The Cascade And Global Scope: Your New Old Worst Best Friends
   – Smashing Magazine
-created: '2016-11-21T13:10:07+00:00'
+date: '2016-11-21T13:10:07+00:00'
 changed: '2019-09-24T14:35:16+00:00'
 
 

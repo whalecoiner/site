@@ -1,7 +1,7 @@
 ---
 guid: 8a5154e6-1feb-489a-9d62-e88a568ffe4e
 title: Apple’s ‘Time Bandits’ Series Will Be Co-Written and Directed by Taika Waititi
-created: '2019-03-11T19:22:53+00:00'
+date: '2019-03-11T19:22:53+00:00'
 changed: '2019-09-24T14:33:09+00:00'
 
 

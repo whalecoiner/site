@@ -1,7 +1,7 @@
 ---
 guid: 95147bd8-cfdd-4695-8336-3ff0df1f7436
 title: Stuffing the Front End
-created: '2019-03-28T14:56:57+00:00'
+date: '2019-03-28T14:56:57+00:00'
 changed: '2019-09-24T14:33:05+00:00'
 
 

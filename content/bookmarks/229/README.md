@@ -1,7 +1,7 @@
 ---
 guid: 541f7b7b-a034-4164-aa66-a8c5b920f864
 title: Cross Browser Testing Solutions – The Ultimate Guide
-created: '2018-02-18T20:13:54+00:00'
+date: '2018-02-18T20:13:54+00:00'
 changed: '2019-09-24T14:34:10+00:00'
 
 

@@ -2,7 +2,7 @@
 guid: 6ff47013-48a1-4eca-8e6e-a32f68df5c24
 title: Inlining critical CSS
 slug: inlining-critical-css
-created: '2014-10-27T10:00:00+00:00'
+date: '2014-10-27T10:00:00+00:00'
 changed: '2019-09-24T19:20:51+00:00'
 strapline: Sticking some nitro up your CSS.
 ---

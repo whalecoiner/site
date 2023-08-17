@@ -1,7 +1,7 @@
 ---
 guid: ed46dfb3-39c4-45c0-9aac-d83b1b83d421
 title: Let's Clarify some Misunderstandings around Sign In with Apple • Aaron Parecki
-created: '2019-06-06T07:27:30+00:00'
+date: '2019-06-06T07:27:30+00:00'
 changed: '2019-09-24T14:32:33+00:00'
 
 

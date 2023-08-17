@@ -1,7 +1,7 @@
 ---
 guid: e3b8affc-1433-409a-8a41-e192080e3fa8
 title: Software disenchantment @ tonsky.me
-created: '2018-09-25T04:14:52+00:00'
+date: '2018-09-25T04:14:52+00:00'
 changed: '2019-09-24T14:33:40+00:00'
 
 

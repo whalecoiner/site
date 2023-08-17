@@ -1,7 +1,7 @@
 ---
 guid: 0aa0a0e3-188f-47b3-9b94-e48b1b5120c6
 title: Checked in at Terra
-created: '2019-05-05T13:32:11+00:00'
+date: '2019-05-05T13:32:11+00:00'
 changed: '2019-09-24T14:55:36+00:00'
 
 

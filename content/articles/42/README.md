@@ -2,7 +2,7 @@
 guid: a412ff9f-a71e-4fbd-b5a8-48208a8bb7e2
 title: 'Speaking at Frontend United 2017, my first ever conference'
 slug: conference-speaking
-created: '2017-06-02T10:00:00+00:00'
+date: '2017-06-02T10:00:00+00:00'
 changed: '2019-09-24T19:20:49+00:00'
 strapline: Speaking at people in public
 ---

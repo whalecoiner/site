@@ -1,7 +1,7 @@
 ---
 guid: 0d081252-6a48-4d3a-9ff8-cd2ae06e1676
 title: Seeing the page for the components
-created: '2019-07-10T17:24:32+00:00'
+date: '2019-07-10T17:24:32+00:00'
 changed: '2019-09-24T14:32:20+00:00'
 
 

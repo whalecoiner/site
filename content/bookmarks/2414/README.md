@@ -3,7 +3,7 @@ guid: a53832a6-6aa4-408f-9bf7-f580095500e1
 title: >-
   How we made the country’s most accessible grocery shopping app (without anyone
   noticing). - Justin Stach
-created: '2019-03-28T21:16:18+00:00'
+date: '2019-03-28T21:16:18+00:00'
 changed: '2020-04-19T04:05:01+00:00'
 
 

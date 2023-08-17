@@ -1,7 +1,7 @@
 ---
 guid: 7c381a32-493c-45f1-9ab9-cf4d99a384d4
 title: 'Reluctant Gatekeeping: The Problem With Full Stack | HeydonWorks'
-created: '2018-12-03T21:31:16+00:00'
+date: '2018-12-03T21:31:16+00:00'
 changed: '2019-09-24T14:33:29+00:00'
 
 

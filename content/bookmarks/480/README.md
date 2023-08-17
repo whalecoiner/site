@@ -1,7 +1,7 @@
 ---
 guid: 8ea583c9-d8d1-43f9-a53d-affab8916d40
 title: Efficient Responsive Design Process – Smashing Magazine
-created: '2016-04-25T10:37:56+00:00'
+date: '2016-04-25T10:37:56+00:00'
 changed: '2019-09-24T14:35:43+00:00'
 
 

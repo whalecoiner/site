@@ -1,7 +1,7 @@
 ---
 guid: a3e084aa-7e6a-48bd-a6a4-68b3d52e077c
 title: 'Choosing Your Battles, Part 1 :: UXmatters'
-created: '2019-04-10T03:26:56+00:00'
+date: '2019-04-10T03:26:56+00:00'
 changed: '2019-09-24T14:32:52+00:00'
 
 

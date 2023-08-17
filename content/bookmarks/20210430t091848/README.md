@@ -4,7 +4,7 @@ title: >-
   The Guardian
 bookmark_of: >-
   https://www.theguardian.com/technology/2021/apr/30/dutch-couple-move-into-europe-first-fully-3d-printed-house-eindhoven
-created: '2021-04-30T09:18:48.757Z'
+date: '2021-04-30T09:18:48.757Z'
 modified: '2021-04-30T09:18:48.757Z'
 guid: a310d871-f3df-4998-81d2-13b702419a5c
 ---

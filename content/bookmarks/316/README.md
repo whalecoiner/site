@@ -1,7 +1,7 @@
 ---
 guid: c2f2ddeb-2d56-451f-b905-829710a54e67
 title: “Why We Didn’t Use A Framework” (Case Study) – Smashing Magazine
-created: '2017-05-18T19:00:48+00:00'
+date: '2017-05-18T19:00:48+00:00'
 changed: '2019-09-24T14:34:42+00:00'
 
 

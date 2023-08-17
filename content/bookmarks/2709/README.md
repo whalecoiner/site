@@ -3,7 +3,7 @@ guid: 03f08aad-43ee-4288-b361-a96425fedd14
 title: >-
   Why Ditching Processed Foods Won't Be Easy — The Barriers To Cooking From
   Scratch
-created: '2019-05-28T05:39:39+00:00'
+date: '2019-05-28T05:39:39+00:00'
 changed: '2019-09-24T14:32:40+00:00'
 
 

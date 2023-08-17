@@ -1,7 +1,7 @@
 ---
 guid: 8bf7b833-43d6-4251-a7ce-703d448daea2
 title: CSS Best Practices
-created: '2016-02-03T14:43:57+00:00'
+date: '2016-02-03T14:43:57+00:00'
 changed: '2019-09-24T14:36:14+00:00'
 
 

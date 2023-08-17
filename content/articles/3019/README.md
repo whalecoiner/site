@@ -2,7 +2,7 @@
 guid: e39eebc6-b57b-46a2-9a04-4abda9567325
 title: Sex and gender heuristics in relation to trans theory
 slug: sex-and-gender-heuristics-relation-trans-theory
-created: '2019-08-01T08:10:10+00:00'
+date: '2019-08-01T08:10:10+00:00'
 changed: '2019-09-24T19:21:10+00:00'
 private: true
 hide_from_index: true

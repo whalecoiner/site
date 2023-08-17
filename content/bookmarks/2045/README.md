@@ -1,7 +1,7 @@
 ---
 guid: 94a1ca18-f31e-44c9-80fa-53c2e3929bd0
 title: When to put down the tools – Mike Monteiro – Medium
-created: '2018-11-18T18:33:38+00:00'
+date: '2018-11-18T18:33:38+00:00'
 changed: '2019-09-24T14:33:29+00:00'
 
 

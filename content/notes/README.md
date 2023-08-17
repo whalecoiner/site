@@ -1,6 +1,6 @@
 ---
 title: Notes and scribbles
-created: 2020-05-15T12:00
+date: 2020-05-15T12:00
 updated: 2020-05-15T12:00
 layout: layouts/notes.njk
 eleventyNavigation:

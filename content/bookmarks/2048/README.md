@@ -1,7 +1,7 @@
 ---
 guid: 5eafe6a6-2d13-45eb-b4c2-c85350f3b936
 title: To whom does the burden fall? – The Interconnected – Medium
-created: '2018-11-16T14:08:46+00:00'
+date: '2018-11-16T14:08:46+00:00'
 changed: '2019-09-24T14:33:29+00:00'
 
 

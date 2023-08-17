@@ -2,7 +2,7 @@
 guid: 68f19e1d-d3ab-417d-b817-ac4408bba023
 title: Visual Regression Testing
 slug: visual-regression-testing
-created: '2014-10-16T22:00:00+00:00'
+date: '2014-10-16T22:00:00+00:00'
 changed: '2019-09-24T19:20:51+00:00'
 strapline: >-
   Visual Regression Testing becomes more important the more complex a project

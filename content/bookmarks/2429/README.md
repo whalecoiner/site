@@ -1,7 +1,7 @@
 ---
 guid: fe49e079-3c85-4b52-9763-5255b7116ac6
 title: 'HTML, CSS and our vanishing industry entry points'
-created: '2019-03-28T15:53:31+00:00'
+date: '2019-03-28T15:53:31+00:00'
 changed: '2019-09-24T14:33:05+00:00'
 
 

@@ -1,7 +1,7 @@
 ---
 guid: ced87ea9-ed0d-4b43-bec0-b14701636843
 title: JavaScript Scope and Closures | CSS-Tricks
-created: '2017-08-28T19:55:54+00:00'
+date: '2017-08-28T19:55:54+00:00'
 changed: '2019-09-24T14:34:25+00:00'
 
 

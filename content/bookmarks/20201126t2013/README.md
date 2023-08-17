@@ -6,7 +6,7 @@ title: >-
   against trans women in open letter | The Independent
 tags:
   - Trans
-created: '2020-11-26T20:13:39.559Z'
+date: '2020-11-26T20:13:39.559Z'
 modified: '2020-11-26T20:13:39.559Z'
 ---
           

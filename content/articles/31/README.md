@@ -2,7 +2,7 @@
 guid: fb868a2f-338b-4b29-847b-75768dc0133b
 title: Twitter image accessibility
 slug: twitter-image-accessibility
-created: '2015-08-28T09:00:00+00:00'
+date: '2015-08-28T09:00:00+00:00'
 changed: '2019-09-24T19:20:51+00:00'
 strapline: The way we use Twitter isn't accessible for everyone.
 ---

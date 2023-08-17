@@ -1,6 +1,6 @@
 ---
 quote_of: 'https://twitter.com/zachleat/status/1361066097668145153?s=09'
-created: '2021-02-15T21:24:24.429Z'
+date: '2021-02-15T21:24:24.429Z'
 modified: '2021-02-15T21:24:24.429Z'
 guid: ba0105d4-0b93-46a9-90a6-fe88107eec25
 quote_of_oembed_twitter: >

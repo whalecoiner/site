@@ -1,7 +1,7 @@
 ---
 guid: f605526b-6921-4441-8920-e351ded249ca
 title: How we’ve made GOV.UK Elements even more accessible
-created: '2018-03-01T18:06:45+00:00'
+date: '2018-03-01T18:06:45+00:00'
 changed: '2019-09-24T14:34:07+00:00'
 
 

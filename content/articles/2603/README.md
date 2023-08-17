@@ -2,7 +2,7 @@
 guid: 29306f5b-558a-44c3-bdec-601d71658aab
 title: A11y Club
 slug: a11y-club
-created: '2019-05-15T09:17:36+00:00'
+date: '2019-05-15T09:17:36+00:00'
 changed: '2019-09-24T19:20:44+00:00'
 strapline: 'Some live notes from #a11yclub Düsseldorf. '
 

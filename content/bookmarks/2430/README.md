@@ -1,7 +1,7 @@
 ---
 guid: deedfbcf-f27e-4e1d-8245-7715702760f0
 title: 'HTML5 Input Types: Where Are They Now? — Smashing Magazine'
-created: '2019-03-28T15:53:30+00:00'
+date: '2019-03-28T15:53:30+00:00'
 changed: '2020-04-19T04:05:01+00:00'
 
 

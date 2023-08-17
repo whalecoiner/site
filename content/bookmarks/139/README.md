@@ -1,7 +1,7 @@
 ---
 guid: e96cccc5-5ebd-4855-ac2f-0e43c4bfb385
 title: 'Adactio: Journal - Preparing a conference talk'
-created: '2018-09-25T17:58:14+00:00'
+date: '2018-09-25T17:58:14+00:00'
 changed: '2019-09-24T14:33:40+00:00'
 
 

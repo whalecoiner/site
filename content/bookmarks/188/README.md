@@ -1,7 +1,7 @@
 ---
 guid: dbf3d940-31e3-4ce7-8ae1-fd54753c8832
 title: 10 Best Sass Mixins for Web Developers
-created: '2018-05-22T07:00:35+00:00'
+date: '2018-05-22T07:00:35+00:00'
 changed: '2019-09-24T14:33:59+00:00'
 
 

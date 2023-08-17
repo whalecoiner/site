@@ -1,7 +1,7 @@
 ---
 guid: c948b12b-3d5a-4e83-9e94-b3563aa6d480
 title: How to Meet WCAG 2 (Quickref Reference)
-created: '2018-09-24T10:18:42+00:00'
+date: '2018-09-24T10:18:42+00:00'
 changed: '2019-09-24T14:33:40+00:00'
 
 

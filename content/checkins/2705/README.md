@@ -1,7 +1,7 @@
 ---
 guid: 9810846e-1bf2-42b2-8569-98e8323f4753
 title: 'Checked in at Termini Station, Rome'
-created: '2019-05-27T14:52:07+00:00'
+date: '2019-05-27T14:52:07+00:00'
 changed: '2019-09-24T13:17:27+00:00'
 
 

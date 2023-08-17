@@ -1,7 +1,7 @@
 ---
 guid: f7364d94-a1d2-4a06-903f-b1e6020c6601
 title: Checked in at SipGate
-created: '2019-05-11T08:29:06+00:00'
+date: '2019-05-11T08:29:06+00:00'
 changed: '2019-09-24T19:17:35+00:00'
 
 

@@ -1,7 +1,7 @@
 ---
 guid: f95606ce-fcac-42b0-bd62-d77a5ca9ae62
 title: Implementing system fonts on Booking.com — A lesson learned.
-created: '2017-06-07T11:07:10+00:00'
+date: '2017-06-07T11:07:10+00:00'
 changed: '2019-09-24T14:34:40+00:00'
 
 

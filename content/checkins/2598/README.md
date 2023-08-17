@@ -1,7 +1,7 @@
 ---
 guid: ce2f2ee0-d791-4343-9735-2b94b61d1bdd
 title: Checked in at Schlüssel Lädchen
-created: '2019-05-14T18:03:00+00:00'
+date: '2019-05-14T18:03:00+00:00'
 changed: '2019-09-24T19:17:35+00:00'
 
 

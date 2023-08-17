@@ -3,7 +3,7 @@ guid: 3e939097-e95d-4a17-b368-9e3f073742af
 title: >-
   WPCampus’ Gutenberg Accessibility Audit Finds “Significant and Pervasive
   Accessibility Problems” – WordPress Tavern
-created: '2019-05-04T19:08:54+00:00'
+date: '2019-05-04T19:08:54+00:00'
 changed: '2019-09-24T14:32:49+00:00'
 
 

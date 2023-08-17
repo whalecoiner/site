@@ -1,6 +1,6 @@
 ---
 title: A note from 2020-12-31
-created: '2020-12-31T19:13:09.452Z'
+date: '2020-12-31T19:13:09.452Z'
 modified: '2020-12-31T19:13:09.452Z'
 images:
   - alt: >-

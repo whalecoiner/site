@@ -1,6 +1,6 @@
 ---
 quote_of: 'https://twitter.com/LAPublicLibrary/status/1395485852579495936'
-created: '2021-05-21T14:12:18.745Z'
+date: '2021-05-21T14:12:18.745Z'
 modified: '2021-05-21T14:12:18.745Z'
 guid: ebafc3ed-983e-42b1-af90-2fca351531db
 quote_of_oembed_twitter: >

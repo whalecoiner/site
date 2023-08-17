@@ -1,7 +1,7 @@
 ---
 guid: b67b63cd-5a5f-476a-bdb0-b9b807257d2f
 title: 'JavaScript Testing: Unit vs Functional vs Integration Tests'
-created: '2016-04-29T15:06:40+00:00'
+date: '2016-04-29T15:06:40+00:00'
 changed: '2019-09-24T14:35:43+00:00'
 
 

@@ -1,6 +1,6 @@
 ---
 title: A note from 2020-12-24
-created: '2020-12-24T15:43:07.557Z'
+date: '2020-12-24T15:43:07.557Z'
 modified: '2020-12-24T15:43:07.557Z'
 tags:
   - indieweb

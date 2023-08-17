@@ -1,7 +1,7 @@
 ---
 guid: 33809596-e413-4d94-8c52-6b6311358a2b
 title: 'Twitter / CommitStrip: Don''t try this at work ...'
-created: '2014-05-16T15:19:18+00:00'
+date: '2014-05-16T15:19:18+00:00'
 changed: '2019-09-24T14:43:13+00:00'
 
 

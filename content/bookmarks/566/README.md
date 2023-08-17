@@ -1,7 +1,7 @@
 ---
 guid: 4f63455c-e88a-4e52-bda8-8d3ab4488095
 title: Is the Hamburger Menu a Problem? — README . MIC — Medium
-created: '2016-01-04T19:48:52+00:00'
+date: '2016-01-04T19:48:52+00:00'
 changed: '2019-09-24T14:36:18+00:00'
 
 

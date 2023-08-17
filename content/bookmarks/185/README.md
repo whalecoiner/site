@@ -1,7 +1,7 @@
 ---
 guid: f829646e-ad74-40f7-b843-2f76ff1e3ed4
 title: I Don’t Believe in Full-Stack Engineering
-created: '2018-06-23T12:58:18+00:00'
+date: '2018-06-23T12:58:18+00:00'
 changed: '2019-09-24T14:33:59+00:00'
 
 

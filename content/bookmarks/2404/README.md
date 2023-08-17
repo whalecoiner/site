@@ -1,7 +1,7 @@
 ---
 guid: 04f0cecf-539e-4866-a0a1-b0330b11a51c
 title: How we tackled technical debt at Wikipedia – Down the rabbit hole – Medium
-created: '2019-04-04T05:45:32+00:00'
+date: '2019-04-04T05:45:32+00:00'
 changed: '2020-04-19T04:05:01+00:00'
 
 

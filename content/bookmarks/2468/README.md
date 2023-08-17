@@ -1,7 +1,7 @@
 ---
 guid: 77e89705-00d5-42b4-b1af-ec873e1454ad
 title: Big ol’ Ball o’ JavaScript | Brad Frost
-created: '2018-12-15T09:53:32+00:00'
+date: '2018-12-15T09:53:32+00:00'
 changed: '2019-09-24T14:33:26+00:00'
 
 

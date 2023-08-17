@@ -1,7 +1,7 @@
 ---
 guid: 04807e92-9af2-47e9-9c5e-5f79915e5e12
 title: The Simplest Ways to Handle HTML Includes
-created: '2019-05-06T13:42:03+00:00'
+date: '2019-05-06T13:42:03+00:00'
 changed: '2019-09-24T14:32:49+00:00'
 
 

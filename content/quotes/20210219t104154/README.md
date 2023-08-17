@@ -1,6 +1,6 @@
 ---
 quote_of: 'https://twitter.com/maurakami/status/1360509501594603520?s=09'
-created: '2021-02-19T10:41:54.434Z'
+date: '2021-02-19T10:41:54.434Z'
 modified: '2021-02-19T10:41:54.434Z'
 guid: 31962fe7-4ac9-4eba-b06c-d829538e9ba5
 quote_of_oembed_twitter: >

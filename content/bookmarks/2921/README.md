@@ -3,7 +3,7 @@ guid: c35f6884-8176-4987-a7f0-0759131f373f
 title: >-
   Tree planting 'has mind-blowing potential' to tackle climate crisis |
   Environment | The Guardian
-created: '2019-07-05T13:32:36+00:00'
+date: '2019-07-05T13:32:36+00:00'
 changed: '2019-09-24T14:32:20+00:00'
 
 

@@ -1,7 +1,7 @@
 ---
 guid: 37462cb2-d445-4610-9cd6-000a3607fecb
 title: 'Front-End Performance Checklist 2017 (PDF, Apple Pages) – Smashing Magazine'
-created: '2016-12-21T12:07:51+00:00'
+date: '2016-12-21T12:07:51+00:00'
 changed: '2019-09-24T14:35:08+00:00'
 
 

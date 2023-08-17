@@ -1,7 +1,7 @@
 ---
 guid: a7a692bc-f24f-4606-8ce0-3c51003ab014
 title: 'UX Crash Course: 31 Fundamentals | The Hipper Element'
-created: '2014-02-24T10:26:38+00:00'
+date: '2014-02-24T10:26:38+00:00'
 changed: '2019-09-24T14:43:27+00:00'
 
 

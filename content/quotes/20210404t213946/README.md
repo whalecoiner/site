@@ -1,6 +1,6 @@
 ---
 quote_of: 'https://twitter.com/yvonnezlam/status/1376628481878990852'
-created: '2021-04-04T21:39:46.381Z'
+date: '2021-04-04T21:39:46.381Z'
 modified: '2021-04-04T21:39:46.381Z'
 guid: 454b18b1-2660-4467-aaee-d2ec702e4ac5
 quote_of_oembed_twitter: >

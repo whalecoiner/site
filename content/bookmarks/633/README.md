@@ -1,7 +1,7 @@
 ---
 guid: eab7f4f0-4982-44e1-9563-d31a13ed156f
 title: aFarkas/lazysizes
-created: '2015-06-08T12:21:12+00:00'
+date: '2015-06-08T12:21:12+00:00'
 changed: '2019-09-24T14:36:44+00:00'
 
 

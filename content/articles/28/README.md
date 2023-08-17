@@ -2,7 +2,7 @@
 guid: 1fee018c-dde6-4e8e-9f2c-c307e67958f2
 title: Food at tech events
 slug: food-tech-events
-created: '2014-12-08T23:00:00+00:00'
+date: '2014-12-08T23:00:00+00:00'
 changed: '2019-09-24T19:20:51+00:00'
 strapline: >-
   You've never noticed the food at tech events. Not unless you've got some kind

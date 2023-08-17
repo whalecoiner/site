@@ -4,7 +4,7 @@ title: No More Shame
 tags:
   - trans
   - mentalhealth
-created: '2020-12-01T10:23:15.454Z'
+date: '2020-12-01T10:23:15.454Z'
 modified: '2020-12-01T10:23:15.454Z'
 strapline: Make space, shame - you're not wanted here
 opengraph:

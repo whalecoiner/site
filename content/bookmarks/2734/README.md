@@ -3,7 +3,7 @@ guid: 32a59907-79a0-4c0b-b303-4cb93d406d75
 title: >-
   Coverage | Ethan Marcotte | The World-Wide Work | New Adventures | 23rd-25th
   January 2019
-created: '2019-06-02T12:58:19+00:00'
+date: '2019-06-02T12:58:19+00:00'
 changed: '2019-09-24T14:32:36+00:00'
 
 

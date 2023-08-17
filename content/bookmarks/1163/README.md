@@ -1,7 +1,7 @@
 ---
 guid: 9a88568e-5960-4342-8669-1324e7a394b7
 title: Should browsers still allow users to disable JavaScript? - DEV Community
-created: '2018-08-31T07:20:17+00:00'
+date: '2018-08-31T07:20:17+00:00'
 changed: '2019-09-24T14:33:51+00:00'
 
 

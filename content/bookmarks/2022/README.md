@@ -1,7 +1,7 @@
 ---
 guid: 0dd6b7ee-8a64-4805-96a4-6f3f3e7cdee8
 title: On Simplicity | Max Böck - Frontend Web Developer
-created: '2019-02-02T21:51:55+00:00'
+date: '2019-02-02T21:51:55+00:00'
 changed: '2019-09-24T14:33:15+00:00'
 
 

@@ -4,7 +4,7 @@ bookmark_of: >-
 title: Undoing the toxic dogmatism of digital design
 tags:
   - Design
-created: '2020-11-29T13:11:13.687Z'
+date: '2020-11-29T13:11:13.687Z'
 modified: '2020-11-29T13:11:13.687Z'
 ---
  

@@ -1,7 +1,7 @@
 ---
 guid: 1ec99ea6-f074-4db1-b837-ce5f91dedd36
 title: 'Checked in at Pod Latarniami, Wroclaw'
-created: '2019-09-10T18:03:09+00:00'
+date: '2019-09-10T18:03:09+00:00'
 changed: '2019-09-24T19:17:15+00:00'
 
 

@@ -6,7 +6,7 @@ tags:
   - Tech
   - site
   - guineapigs
-created: '2020-12-21T21:33:53.305Z'
+date: '2020-12-21T21:33:53.305Z'
 modified: '2020-12-21T21:33:53.305Z'
 ---
 Finally got image uploads working via the web interface of this site. This wee guy helped.

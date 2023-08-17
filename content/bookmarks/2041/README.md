@@ -3,7 +3,7 @@ guid: 990920ba-c4c4-4d84-9b81-7da804f2359f
 title: >-
   Microsoft is building a Chromium-powered web browser that will replace Edge on
   Windows 10 | Windows Central
-created: '2018-12-04T05:08:05+00:00'
+date: '2018-12-04T05:08:05+00:00'
 changed: '2019-09-24T14:33:29+00:00'
 
 

@@ -1,7 +1,7 @@
 ---
 guid: 1664846c-f262-4fcb-95b9-c73a0f0ce957
 title: How Web Content Can Affect Power Usage | WebKit
-created: '2019-09-03T16:57:30+00:00'
+date: '2019-09-03T16:57:30+00:00'
 changed: '2019-09-24T14:32:04+00:00'
 
 

@@ -1,7 +1,7 @@
 ---
 guid: d761cbd0-d080-46f3-b3f6-735d92791f18
 title: How Swedes and Norwegians Broke the Power of the ‘1 Percent’
-created: '2018-12-27T12:21:19+00:00'
+date: '2018-12-27T12:21:19+00:00'
 changed: '2019-09-24T14:33:19+00:00'
 
 

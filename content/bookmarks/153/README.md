@@ -1,7 +1,7 @@
 ---
 guid: 6ddbb8bf-2ae5-490e-8be0-dc49af0e444a
 title: 'We Need Software to Help Us Slow Down, Not Speed Up'
-created: '2018-09-17T19:28:44+00:00'
+date: '2018-09-17T19:28:44+00:00'
 changed: '2019-09-24T14:33:43+00:00'
 
 

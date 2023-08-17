@@ -1,6 +1,6 @@
 ---
 quote_of: 'https://twitter.com/WTFoucault/status/1352731597691367430'
-created: '2021-02-15T15:48:18.644Z'
+date: '2021-02-15T15:48:18.644Z'
 modified: '2021-02-15T15:48:18.644Z'
 guid: 0ccf459d-288e-494e-951e-42958eddc534
 quote_of_oembed_twitter: >

@@ -1,6 +1,6 @@
 ---
 quote_of: 'https://twitter.com/sineadactually/status/1359305681829048321'
-created: '2021-02-10T18:48:28.297Z'
+date: '2021-02-10T18:48:28.297Z'
 modified: '2021-02-10T18:48:28.297Z'
 guid: 1b2cb35f-2ed7-4706-9d6d-4d90fbb2f97f
 ---

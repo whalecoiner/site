@@ -1,7 +1,7 @@
 ---
 guid: 7d02cb09-810f-40c5-a3dd-beec6bc798ab
 title: Thoughts on screen reader detection – Tink
-created: '2019-03-28T15:53:46+00:00'
+date: '2019-03-28T15:53:46+00:00'
 changed: '2020-04-19T04:05:01+00:00'
 
 

@@ -1,7 +1,7 @@
 ---
 guid: ec385a23-1d53-4ea3-a6ce-e2115deb8df5
 title: 'By the End of This Century, the Global Population Will Start to Shrink'
-created: '2019-04-08T11:49:02+00:00'
+date: '2019-04-08T11:49:02+00:00'
 changed: '2019-09-24T14:32:52+00:00'
 
 

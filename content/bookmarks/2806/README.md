@@ -1,7 +1,7 @@
 ---
 guid: a7278ea4-ceb4-4096-a51d-f4cf6eaa76a2
 title: This Deepfake of Mark Zuckerberg Tests Facebook’s Fake Video Policies - VICE
-created: '2019-06-12T15:43:26+00:00'
+date: '2019-06-12T15:43:26+00:00'
 changed: '2019-09-24T14:32:30+00:00'
 
 

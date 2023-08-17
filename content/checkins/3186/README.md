@@ -1,7 +1,7 @@
 ---
 guid: bff29cbd-7592-40ee-b9fa-01acdbc6599d
 title: 'Checked in at Cheese is More, Wroclaw'
-created: '2019-09-10T16:21:11+00:00'
+date: '2019-09-10T16:21:11+00:00'
 changed: '2019-09-24T19:17:15+00:00'
 
 

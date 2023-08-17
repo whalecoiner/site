@@ -1,7 +1,7 @@
 ---
 guid: 03494344-7ed5-473b-ae8e-4b24c7519146
 title: 'ROCA: Resource-oriented Client Architecture'
-created: '2019-06-23T13:43:11+00:00'
+date: '2019-06-23T13:43:11+00:00'
 changed: '2019-09-24T14:32:27+00:00'
 
 

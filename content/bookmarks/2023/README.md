@@ -1,7 +1,7 @@
 ---
 guid: f46d59e3-5fe0-4d48-bff1-64ad4dce769e
 title: 'Reader Mode: The Button to Beat | CSS-Tricks'
-created: '2019-01-07T19:59:07+00:00'
+date: '2019-01-07T19:59:07+00:00'
 changed: '2019-09-24T14:33:15+00:00'
 
 

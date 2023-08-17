@@ -3,7 +3,7 @@ guid: b8124a88-4dc8-4200-85e0-8de40f3e35ad
 title: >-
   I have resigned as the WordPress accessibility team lead. Here is why. - Rian
   Rietveld
-created: '2018-10-09T15:42:36+00:00'
+date: '2018-10-09T15:42:36+00:00'
 changed: '2019-09-24T14:33:36+00:00'
 
 

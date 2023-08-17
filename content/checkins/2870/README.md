@@ -1,7 +1,7 @@
 ---
 guid: 8a9ba0fb-72b6-430c-89a9-ed71bcbad2a5
 title: Checked in at Welcome Hotel Darmstadt
-created: '2019-06-26T17:02:04+00:00'
+date: '2019-06-26T17:02:04+00:00'
 changed: '2019-09-24T19:17:25+00:00'
 
 

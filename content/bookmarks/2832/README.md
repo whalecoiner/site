@@ -1,7 +1,7 @@
 ---
 guid: 2d41a8ec-c748-4145-a395-8fb82ce600bb
 title: HTML is the Web ~ Pete Lambert
-created: '2019-06-17T14:29:11+00:00'
+date: '2019-06-17T14:29:11+00:00'
 changed: '2019-09-24T14:32:27+00:00'
 
 

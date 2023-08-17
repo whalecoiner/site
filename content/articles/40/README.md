@@ -2,7 +2,7 @@
 guid: 12f92f63-ce02-415c-9fc8-513300783e10
 title: Staffordshire Oatcake Recipe
 slug: oatcakes
-created: '2017-01-10T21:24:00+00:00'
+date: '2017-01-10T21:24:00+00:00'
 changed: '2019-09-24T19:20:49+00:00'
 strapline: >-
   Stick 'em in your pasty white face while on the way to see Vale and Stoke play

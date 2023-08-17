@@ -3,7 +3,7 @@ guid: 8b50a6a1-464a-46bf-a2af-7ca3bf20f938
 title: >-
   comet - How does facebook, gmail send the real time notification? - Stack
   Overflow
-created: '2015-01-06T15:51:12+00:00'
+date: '2015-01-06T15:51:12+00:00'
 changed: '2019-09-24T14:37:25+00:00'
 
 

@@ -1,6 +1,6 @@
 ---
 title: 'GitHub, f*ck your name change.. Tech industry be whilin. | by MooseyAnon'
-created: '2021-03-19T13:16:32.767Z'
+date: '2021-03-19T13:16:32.767Z'
 modified: '2021-03-19T13:16:32.767Z'
 bookmark_of: 'https://mooseyanon.medium.com/github-f-ck-your-name-change-de599033bbbe'
 guid: d9e8f43a-c611-4262-92f2-a879e41bcf69

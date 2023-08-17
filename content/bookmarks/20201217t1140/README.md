@@ -6,7 +6,7 @@ tags:
   - tech
   - web
   - javascript
-created: '2020-12-17T11:40:16.244Z'
+date: '2020-12-17T11:40:16.244Z'
 modified: '2020-12-17T11:40:16.244Z'
 ---
  

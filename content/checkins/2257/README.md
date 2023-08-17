@@ -1,7 +1,7 @@
 ---
 guid: 42b28713-4199-43be-8906-ff85e4453de4
 title: 'Checked in at Salt ''n'' Bone, Berlin'
-created: '2019-03-24T17:20:43+00:00'
+date: '2019-03-24T17:20:43+00:00'
 changed: '2019-09-24T19:17:45+00:00'
 
 

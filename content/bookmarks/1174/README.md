@@ -1,7 +1,7 @@
 ---
 guid: 4cee55fd-8aeb-4c88-99b1-a3ea192e06fe
 title: What is Tailwind? - Tailwind CSS
-created: '2018-09-30T12:48:48+00:00'
+date: '2018-09-30T12:48:48+00:00'
 changed: '2019-09-24T14:33:36+00:00'
 
 

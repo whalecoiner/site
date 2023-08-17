@@ -1,5 +1,5 @@
 ---
-created: '2021-05-28T18:53:04.476Z'
+date: '2021-05-28T18:53:04.476Z'
 title: >-
   Caitlyn Jenner wants a “commission” to determine which trans girls are “truly
   trans” / LGBTQ Nation

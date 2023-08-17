@@ -11,7 +11,7 @@ tags:
   - Trump
   - fascist
 id: 20210120t1331
-created: '2021-01-20T13:31:58.739Z'
+date: '2021-01-20T13:31:58.739Z'
 modified: '2021-01-20T13:31:58.739Z'
 guid: 6685ecf0-c8ad-4a65-be9f-b9d26e09ed54
 ---

@@ -1,7 +1,7 @@
 ---
 guid: 115e1276-c52b-4f74-949b-4bb0d2feb877
 title: 'Checked in at Coffee Planet, Wroclaw'
-created: '2019-09-10T19:38:54+00:00'
+date: '2019-09-10T19:38:54+00:00'
 changed: '2019-09-24T19:17:15+00:00'
 
 

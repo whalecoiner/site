@@ -1,7 +1,7 @@
 ---
 guid: 3ef5e72a-eb30-4447-905b-d8a9d4c69fa6
 title: More Meaningful Typography · An A List Apart Article
-created: '2014-10-07T17:14:05+00:00'
+date: '2014-10-07T17:14:05+00:00'
 changed: '2019-09-24T14:42:36+00:00'
 
 

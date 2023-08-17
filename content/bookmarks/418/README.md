@@ -1,7 +1,7 @@
 ---
 guid: 6691c978-c794-421b-b324-766204f9ded4
 title: Responsive Images in CSS | CSS-Tricks
-created: '2016-10-27T12:10:20+00:00'
+date: '2016-10-27T12:10:20+00:00'
 changed: '2019-09-24T14:35:20+00:00'
 
 

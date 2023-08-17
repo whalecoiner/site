@@ -1,7 +1,7 @@
 ---
 title: 'To be fully human, we must also be fully embodied animal | Aeon Essays'
 bookmark_of: 'https://aeon.co/essays/to-be-fully-human-we-must-also-be-fully-embodied-animal'
-created: '2021-04-10T11:58:09.768Z'
+date: '2021-04-10T11:58:09.768Z'
 modified: '2021-04-10T11:58:09.768Z'
 guid: 25ea2384-ad29-454f-84a1-8493fb1f31ad
 ---

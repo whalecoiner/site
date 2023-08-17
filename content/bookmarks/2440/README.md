@@ -1,7 +1,7 @@
 ---
 guid: 95f926cb-3589-4ce3-aaaf-c47fceaa37ec
 title: 'How Disney Built Star Wars, in real life | TechCrunch'
-created: '2019-03-21T13:20:00+00:00'
+date: '2019-03-21T13:20:00+00:00'
 changed: '2019-09-24T14:33:09+00:00'
 
 

@@ -2,7 +2,7 @@
 tags:
   - trans
   - genderrecognitionact
-created: '2020-12-10T16:08:37.011Z'
+date: '2020-12-10T16:08:37.011Z'
 modified: '2020-12-10T16:08:37.011Z'
 ---
 Watching the Women and Equalities Committee on the Reform of the Gender Recognition Act. Gotta :heart: Alex, Ruth, and Stephen. 

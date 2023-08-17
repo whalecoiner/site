@@ -1,7 +1,7 @@
 ---
 guid: 0dd705f5-8287-4e5b-9bac-fadce7669084
 title: A Front End Engineer's Manifesto
-created: '2019-03-21T14:18:11+00:00'
+date: '2019-03-21T14:18:11+00:00'
 changed: '2019-09-24T14:33:09+00:00'
 
 

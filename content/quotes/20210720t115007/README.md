@@ -1,6 +1,6 @@
 ---
 quote_of: 'https://twitter.com/jk_rowling/status/1417067152956399619'
-created: '2021-07-20T11:50:07.326Z'
+date: '2021-07-20T11:50:07.326Z'
 modified: '2021-07-20T11:50:07.326Z'
 guid: 7573569b-b209-493f-8aaf-be9d54159c79
 quote_of_oembed_twitter: >

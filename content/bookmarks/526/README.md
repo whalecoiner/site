@@ -1,7 +1,7 @@
 ---
 guid: 30244fbd-bcaa-41ff-a7f1-4558d58cb145
 title: '(500) https://css-tricks.com/class-up-templates-not-content/'
-created: '2016-03-06T19:58:47+00:00'
+date: '2016-03-06T19:58:47+00:00'
 changed: '2019-09-24T14:36:02+00:00'
 
 

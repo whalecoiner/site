@@ -2,7 +2,7 @@
 guid: 93edb041-4e5d-4719-94fe-666956da6289
 title: IndieWeb Camp Berlin 2018
 slug: indieweb-camp-berlin-2018
-created: '2018-03-11T20:54:00+00:00'
+date: '2018-03-11T20:54:00+00:00'
 changed: '2019-09-24T19:20:46+00:00'
 ---
 

@@ -1,7 +1,7 @@
 ---
 guid: 00551233-44d8-4125-823c-42e57538f841
 title: Yet Another JavaScript Framework | CSS-Tricks
-created: '2019-04-02T14:01:40+00:00'
+date: '2019-04-02T14:01:40+00:00'
 changed: '2019-09-24T14:32:58+00:00'
 
 

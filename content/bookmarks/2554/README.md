@@ -1,7 +1,7 @@
 ---
 guid: 31444304-0e60-4397-b196-0e2fa0445b9e
 title: AirPods Are a Tragedy - VICE
-created: '2019-05-08T06:30:07+00:00'
+date: '2019-05-08T06:30:07+00:00'
 changed: '2019-09-24T14:32:46+00:00'
 
 

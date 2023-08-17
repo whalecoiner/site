@@ -2,7 +2,7 @@
 guid: 2fda4728-8740-44a0-96c8-3954b2f6827a
 title: Deploying a compiled site to a personal Github Pages account
 slug: deploying-a-compiled-site-to-github-pages
-created: '2016-09-20T15:57:00+00:00'
+date: '2016-09-20T15:57:00+00:00'
 changed: '2019-09-24T19:20:51+00:00'
 strapline: >-
   Personal Github Pages only allow either static sites or Jekyll as a source,

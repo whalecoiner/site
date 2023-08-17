@@ -1,7 +1,7 @@
 ---
 guid: 8ba54210-f85f-422e-958d-497eaf819e67
 title: Choose Boring Technology
-created: '2019-07-03T06:24:48+00:00'
+date: '2019-07-03T06:24:48+00:00'
 changed: '2019-09-24T14:32:23+00:00'
 
 

@@ -3,7 +3,7 @@ guid: 3063ae34-e276-4938-a426-f5f9d408d4a7
 title: >-
   Banana slicers and pre-peeled oranges: “useless” products can help people with
   disabilities - Vox
-created: '2018-10-23T11:10:34+00:00'
+date: '2018-10-23T11:10:34+00:00'
 changed: '2019-09-24T14:33:36+00:00'
 
 

@@ -1,7 +1,7 @@
 ---
 guid: e22453bb-dadf-4155-9c04-14f8e8f686d8
 title: Automating Front-end Workflow
-created: '2013-11-04T14:00:36+00:00'
+date: '2013-11-04T14:00:36+00:00'
 changed: '2019-09-24T14:43:45+00:00'
 
 

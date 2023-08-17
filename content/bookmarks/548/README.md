@@ -1,7 +1,7 @@
 ---
 guid: c2fec15c-dbcd-4cb7-b4af-f115d44ce1be
 title: Web Animation at Work · An A List Apart Article
-created: '2016-02-15T08:01:01+00:00'
+date: '2016-02-15T08:01:01+00:00'
 changed: '2019-09-24T14:36:11+00:00'
 
 

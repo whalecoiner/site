@@ -1,7 +1,7 @@
 ---
 guid: b5038368-7f9e-414c-baab-272f8d571f6d
 title: Accessible HTML Content Patterns
-created: '2019-01-02T11:44:09+00:00'
+date: '2019-01-02T11:44:09+00:00'
 changed: '2019-09-24T14:33:19+00:00'
 
 

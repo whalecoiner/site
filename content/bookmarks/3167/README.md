@@ -1,7 +1,7 @@
 ---
 guid: 7d29ff8a-2bae-497e-bd69-e84cde4b9fa0
 title: Save-Data Usage - Web Performance Consulting | TimKadlec.com
-created: '2019-08-30T08:18:19+00:00'
+date: '2019-08-30T08:18:19+00:00'
 changed: '2019-09-24T14:32:04+00:00'
 
 

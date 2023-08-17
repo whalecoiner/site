@@ -1,7 +1,7 @@
 ---
 guid: caddfc86-842e-4ee5-8d8d-fadfb64c7370
 title: Thinking differently about progressive enhancement - Adam Silver
-created: '2018-12-18T08:50:35+00:00'
+date: '2018-12-18T08:50:35+00:00'
 changed: '2019-09-24T14:33:22+00:00'
 
 

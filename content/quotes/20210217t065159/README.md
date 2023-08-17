@@ -1,6 +1,6 @@
 ---
 quote_of: 'https://twitter.com/torriangray/status/1361778280521605122?s=09'
-created: '2021-02-17T06:51:59.097Z'
+date: '2021-02-17T06:51:59.097Z'
 modified: '2021-02-17T06:51:59.097Z'
 guid: a6b64a00-88de-42d3-9b99-aeef90316e1b
 quote_of_oembed_twitter: >

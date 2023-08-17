@@ -1,7 +1,7 @@
 ---
 guid: 8e85160e-5c9f-441c-8443-7315fb0e6558
 title: 'Chrome, Safari See Browser Market Share Increase Worldwide'
-created: '2012-09-03T10:06:01+00:00'
+date: '2012-09-03T10:06:01+00:00'
 changed: '2019-09-24T14:44:53+00:00'
 
 

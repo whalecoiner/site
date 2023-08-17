@@ -1,7 +1,7 @@
 ---
 guid: ef135a95-fe46-4435-9b30-e256da57e8ae
 title: 'How to apply a design thinking, HCD, UX or any creative process from scratch'
-created: '2019-04-06T07:50:19+00:00'
+date: '2019-04-06T07:50:19+00:00'
 changed: '2019-09-24T14:32:55+00:00'
 
 

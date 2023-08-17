@@ -1,7 +1,7 @@
 ---
 guid: 0d3dd351-84c4-4756-a313-a12b12c3e341
 title: The web is actually really slow | Go Make Things
-created: '2018-10-15T13:01:31+00:00'
+date: '2018-10-15T13:01:31+00:00'
 changed: '2019-09-24T14:33:36+00:00'
 
 

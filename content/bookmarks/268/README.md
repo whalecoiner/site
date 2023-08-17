@@ -1,7 +1,7 @@
 ---
 guid: 7b68c691-748d-48ca-9712-3748bd698029
 title: An Overview Of The Most Common UX Design Deliverables – Smashing Magazine
-created: '2017-09-27T11:54:09+00:00'
+date: '2017-09-27T11:54:09+00:00'
 changed: '2019-09-24T14:34:25+00:00'
 
 

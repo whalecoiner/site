@@ -3,7 +3,7 @@ guid: c0bffb60-865a-4d95-b73d-706d4cf7c105
 title: >-
   The JavaScript Supply Chain Paradox: SRI, CSP and Trust in Third Party
   Libraries
-created: '2018-02-12T09:34:27+00:00'
+date: '2018-02-12T09:34:27+00:00'
 changed: '2019-09-24T14:34:14+00:00'
 
 

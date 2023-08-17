@@ -1,7 +1,7 @@
 ---
 guid: 6d9867a0-ca64-43d3-9d3f-5b196d5b3d26
 title: What We Wished For — Smashing Magazine
-created: '2019-03-28T12:19:28+00:00'
+date: '2019-03-28T12:19:28+00:00'
 changed: '2020-04-19T04:05:01+00:00'
 
 

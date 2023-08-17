@@ -1,7 +1,7 @@
 ---
 guid: baf29891-8ac2-4eda-91e4-7ed9918fd391
 title: 'Responsible JavaScript: Part I · An A List Apart Article'
-created: '2019-03-29T11:08:23+00:00'
+date: '2019-03-29T11:08:23+00:00'
 changed: '2020-04-19T04:05:01+00:00'
 
 

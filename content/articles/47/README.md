@@ -2,7 +2,7 @@
 guid: f72b71c6-1da7-452b-bc38-acc81fce1eac
 title: The mysterious case of missing URLs and Google's AMP
 slug: amp-urls
-created: '2018-09-05T10:00:00+00:00'
+date: '2018-09-05T10:00:00+00:00'
 changed: '2019-09-24T19:20:46+00:00'
 strapline: >-
   Google has a monopoly on search rankings. We can't let them obtain a monopoly

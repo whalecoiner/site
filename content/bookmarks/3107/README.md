@@ -3,7 +3,7 @@ guid: 881e4ea7-698f-46b0-a2bc-53a29112cb73
 title: >-
   'Plastic recycling is a myth': what really happens to your rubbish? |
   Environment | The Guardian
-created: '2019-08-17T14:04:09+00:00'
+date: '2019-08-17T14:04:09+00:00'
 changed: '2019-09-24T14:32:07+00:00'
 
 

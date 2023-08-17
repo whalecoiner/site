@@ -6,7 +6,7 @@ add_like: true
 tags:
   - Trans
   - star
-created: '2020-12-13T17:58:23.981Z'
+date: '2020-12-13T17:58:23.981Z'
 modified: '2020-12-13T17:58:23.981Z'
 ---
 An absolutely incredible interview with Marsha P Johnson and Sylvia Rivera about being trans in 1979s New York. 

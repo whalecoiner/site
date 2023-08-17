@@ -1,7 +1,7 @@
 ---
 guid: 9a15be4e-57d6-4716-947f-d84ca73de83a
 title: Reducing Complexity With a Component API - YouTube
-created: '2014-08-01T07:08:46+00:00'
+date: '2014-08-01T07:08:46+00:00'
 changed: '2019-09-24T14:43:05+00:00'
 
 

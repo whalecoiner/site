@@ -1,7 +1,7 @@
 ---
 guid: 565da108-04bd-49d3-a0c1-1fd6b10dbaa3
 title: 'The missing pieces: teaching the legal side of web development - Webdevlaw'
-created: '2019-07-23T06:04:43+00:00'
+date: '2019-07-23T06:04:43+00:00'
 changed: '2019-09-24T14:32:13+00:00'
 
 

@@ -1,7 +1,7 @@
 ---
 guid: c043ba37-c153-46ac-814c-4419ee3f30c7
 title: 'Application Holotypes: A Guide to Architecture Decisions'
-created: '2019-09-03T12:01:16+00:00'
+date: '2019-09-03T12:01:16+00:00'
 changed: '2019-09-24T14:32:04+00:00'
 
 

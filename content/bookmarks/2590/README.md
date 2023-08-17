@@ -1,7 +1,7 @@
 ---
 guid: 60192598-196b-4d93-8b9d-21fba80b0a3c
 title: Thinking in Triplicate
-created: '2019-05-14T06:25:20+00:00'
+date: '2019-05-14T06:25:20+00:00'
 changed: '2019-09-24T14:32:43+00:00'
 
 

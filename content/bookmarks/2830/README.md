@@ -1,7 +1,7 @@
 ---
 guid: 04dec10d-eaa0-4edf-bb86-44eac8402e43
 title: "Bruce Lawson's personal site\_ : Why would a screen reader user have a braille display?"
-created: '2019-06-17T12:19:03+00:00'
+date: '2019-06-17T12:19:03+00:00'
 changed: '2019-09-24T14:32:27+00:00'
 
 

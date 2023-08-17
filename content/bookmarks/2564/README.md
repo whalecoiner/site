@@ -1,7 +1,7 @@
 ---
 guid: c07c3345-988f-49d2-a886-44b3505738f9
 title: Introducing GitHub Package Registry - The GitHub Blog
-created: '2019-05-11T09:03:35+00:00'
+date: '2019-05-11T09:03:35+00:00'
 changed: '2019-09-24T14:32:46+00:00'
 
 

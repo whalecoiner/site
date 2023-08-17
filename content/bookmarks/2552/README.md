@@ -1,7 +1,7 @@
 ---
 guid: 8be32380-c015-41e7-b2ce-c1e5836cce35
 title: '.cssconfeu:last-of-type'
-created: '2019-05-06T20:15:36+00:00'
+date: '2019-05-06T20:15:36+00:00'
 changed: '2019-09-24T14:32:49+00:00'
 
 

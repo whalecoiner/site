@@ -5,7 +5,7 @@ title: Europe to revive international night train links
 tags:
   - Transport
   - trains
-created: '2020-12-10T08:00:18.741Z'
+date: '2020-12-10T08:00:18.741Z'
 modified: '2020-12-10T08:00:18.741Z'
 ---
 Dreams can come true.

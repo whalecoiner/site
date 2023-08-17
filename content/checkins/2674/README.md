@@ -1,7 +1,7 @@
 ---
 guid: a2f408c8-7267-4251-bc54-43a0701eba8a
 title: 'Checked in at Ristorante Trattoria il Gatto Bianco '
-created: '2019-05-23T17:49:36+00:00'
+date: '2019-05-23T17:49:36+00:00'
 changed: '2019-09-24T19:17:31+00:00'
 
 

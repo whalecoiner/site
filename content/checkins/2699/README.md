@@ -1,7 +1,7 @@
 ---
 guid: 48dd7a75-206e-41db-bd5d-4c2190b21099
 title: 'Checked in at Pompi, Rome'
-created: '2019-05-26T14:45:22+00:00'
+date: '2019-05-26T14:45:22+00:00'
 changed: '2019-09-24T19:17:27+00:00'
 
 

@@ -3,7 +3,7 @@ guid: 8d65811e-9cd3-487a-b662-eb30872cef0e
 title: >-
   Progressive Boomers Are Making It Impossible For Cities To Fix The Housing
   Crisis | HuffPost
-created: '2019-07-07T09:04:29+00:00'
+date: '2019-07-07T09:04:29+00:00'
 changed: '2019-09-24T14:32:20+00:00'
 
 

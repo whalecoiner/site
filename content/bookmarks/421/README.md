@@ -1,7 +1,7 @@
 ---
 guid: c553bb1c-dda6-4ee1-8603-396495acb44f
 title: Center and crop thumbnails with CSS - Jonathan Nicol
-created: '2016-10-22T19:03:06+00:00'
+date: '2016-10-22T19:03:06+00:00'
 changed: '2019-09-24T14:35:20+00:00'
 
 

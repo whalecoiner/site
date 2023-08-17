@@ -1,6 +1,6 @@
 ---
 quote_of: 'https://twitter.com/monaeltahawy/status/1370863931921666051'
-created: '2021-03-17T09:58:39.505Z'
+date: '2021-03-17T09:58:39.505Z'
 modified: '2021-03-17T09:58:39.505Z'
 guid: 40e1a551-348a-4663-b68d-f71d634c3836
 quote_of_oembed_twitter: >

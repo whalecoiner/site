@@ -1,7 +1,7 @@
 ---
 guid: 1a2a29c7-f0a4-4eee-b5c7-699459cd99a0
 title: "The web without the web - DEV Community \U0001F469‍\U0001F4BB\U0001F468‍\U0001F4BB"
-created: '2019-08-01T13:28:46+00:00'
+date: '2019-08-01T13:28:46+00:00'
 changed: '2019-09-24T14:32:10+00:00'
 
 

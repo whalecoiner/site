@@ -1,7 +1,7 @@
 ---
 guid: 6d33b7aa-17c1-486f-b251-607a422d998d
 title: Why the Future of Data Storage is (Still) Magnetic Tape - IEEE Spectrum
-created: '2018-09-19T06:13:00+00:00'
+date: '2018-09-19T06:13:00+00:00'
 changed: '2019-09-24T14:33:43+00:00'
 
 

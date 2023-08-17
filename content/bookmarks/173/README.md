@@ -1,7 +1,7 @@
 ---
 guid: 52cca184-bbee-407c-91d6-c4dbd23fd2b8
 title: Let's serve everyone good-looking content
-created: '2018-08-13T04:35:17+00:00'
+date: '2018-08-13T04:35:17+00:00'
 changed: '2019-09-24T14:33:54+00:00'
 
 

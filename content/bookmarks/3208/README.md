@@ -1,7 +1,7 @@
 ---
 guid: af67daa9-e1ad-4927-953b-0a8b989852bc
 title: '5G Will Definitely Make the Web Slower, Maybe | Filament Group, Inc.'
-created: '2019-09-13T15:06:59+00:00'
+date: '2019-09-13T15:06:59+00:00'
 changed: '2019-09-24T14:32:04+00:00'
 
 

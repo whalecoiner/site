@@ -1,6 +1,6 @@
 ---
 quote_of: 'https://twitter.com/thatweirdolee/status/1364394285702017027?s=09'
-created: '2021-02-24T12:23:48.636Z'
+date: '2021-02-24T12:23:48.636Z'
 modified: '2021-02-24T12:23:48.636Z'
 guid: d756cd24-4c42-4ce8-b42a-3426838c3b64
 quote_of_oembed_twitter: >

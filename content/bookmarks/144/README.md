@@ -1,7 +1,7 @@
 ---
 guid: 5cb97c40-7be7-47ba-a366-1a709a27b474
 title: Trashy.css - The throwaway CSS library with no class
-created: '2018-09-24T06:04:22+00:00'
+date: '2018-09-24T06:04:22+00:00'
 changed: '2019-09-24T14:33:40+00:00'
 
 

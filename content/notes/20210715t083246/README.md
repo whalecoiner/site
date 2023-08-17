@@ -6,7 +6,7 @@ images:
       COVID-19.
     width: 3120
     height: 1296
-created: '2021-07-15T08:32:46.523Z'
+date: '2021-07-15T08:32:46.523Z'
 modified: '2021-07-15T08:32:46.523Z'
 guid: 28b5c300-2746-4008-b2e7-fd46d1b42985
 ---

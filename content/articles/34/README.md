@@ -2,7 +2,7 @@
 guid: 079c0319-6cb0-4c83-baa0-b79032750146
 title: Auto-publishing via npm version
 slug: npm-version
-created: '2016-10-08T11:30:00+00:00'
+date: '2016-10-08T11:30:00+00:00'
 changed: '2019-09-24T19:20:49+00:00'
 strapline: tl;dr npm version handles semver and publishes for you...
 ---

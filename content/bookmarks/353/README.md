@@ -1,7 +1,7 @@
 ---
 guid: 4a9bb00d-9971-4d59-b954-d30315f6fc4e
 title: A Detailed Introduction To Webpack – Smashing Magazine
-created: '2017-02-22T19:02:09+00:00'
+date: '2017-02-22T19:02:09+00:00'
 changed: '2019-09-24T14:34:53+00:00'
 
 

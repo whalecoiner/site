@@ -3,7 +3,7 @@ guid: fbebfeb4-fbf7-49d8-be26-38551f96c9db
 title: >-
   Accessibility and web performance are not features, they’re the baseline |
   CSS-Tricks
-created: '2019-08-19T14:48:14+00:00'
+date: '2019-08-19T14:48:14+00:00'
 changed: '2019-09-24T14:32:07+00:00'
 
 

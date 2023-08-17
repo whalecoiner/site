@@ -1,6 +1,6 @@
 ---
 quote_of: 'https://twitter.com/TheEconomist/status/1363410403284422659?s=09'
-created: '2021-02-21T10:56:37.055Z'
+date: '2021-02-21T10:56:37.055Z'
 modified: '2021-02-21T10:56:37.055Z'
 guid: 20389934-1810-4501-9573-42ddbaa2c92b
 quote_of_oembed_twitter: >

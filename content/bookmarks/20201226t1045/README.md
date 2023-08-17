@@ -10,7 +10,7 @@ tags:
   - transphobia
   - conspiracytheory
   - tinfoil
-created: '2020-12-26T10:45:17.308Z'
+date: '2020-12-26T10:45:17.308Z'
 modified: '2020-12-26T10:45:17.308Z'
 guid: 932dade3-ee4e-4767-b6d5-9571258d07bb
 ---

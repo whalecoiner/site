@@ -1,5 +1,5 @@
 ---
-created: '2021-02-11T17:40:56.076Z'
+date: '2021-02-11T17:40:56.076Z'
 modified: '2021-02-11T17:40:56.076Z'
 quote_of: 'https://twitter.com/torynglavin/status/1359913584650764290'
 guid: 49992e6b-476b-4b15-b9e8-d210b81c5c34

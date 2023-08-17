@@ -1,7 +1,7 @@
 ---
 guid: b4536ed9-720f-4751-94f5-51e7f2aa09d2
 title: Rhythm in Web Typography | Better Web Type
-created: '2018-10-23T05:14:50+00:00'
+date: '2018-10-23T05:14:50+00:00'
 changed: '2019-09-24T14:33:36+00:00'
 
 

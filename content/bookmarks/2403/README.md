@@ -3,7 +3,7 @@ guid: 1b7b339f-b436-4a37-a943-f70ddbb88e56
 title: >-
   Why Computer Programmers Should Stop Calling Themselves Engineers - The
   Atlantic
-created: '2019-04-05T12:16:17+00:00'
+date: '2019-04-05T12:16:17+00:00'
 changed: '2019-09-24T14:32:55+00:00'
 
 

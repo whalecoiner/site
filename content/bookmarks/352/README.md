@@ -1,7 +1,7 @@
 ---
 guid: 55945569-0c62-4dfb-a0de-9945de45aebf
 title: The Dress Code | Zalando
-created: '2017-02-23T11:41:12+00:00'
+date: '2017-02-23T11:41:12+00:00'
 changed: '2019-09-24T14:34:53+00:00'
 
 

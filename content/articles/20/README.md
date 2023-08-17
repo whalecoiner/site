@@ -2,7 +2,7 @@
 guid: af35d454-9564-4557-9bb9-5883ec40b61e
 title: Bypassing Jekyll via Grunt
 slug: bypassing-jekyll-your-grunt-tasks
-created: '2014-09-06T09:00:00+00:00'
+date: '2014-09-06T09:00:00+00:00'
 changed: '2019-09-24T19:20:54+00:00'
 strapline: Just do an end run around it
 ---

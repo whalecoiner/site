@@ -1,7 +1,7 @@
 ---
 guid: ca0b377a-55f0-419e-a747-7bf0a49caafd
 title: Alphabet of Accessibility Deck
-created: '2019-05-09T08:27:35+00:00'
+date: '2019-05-09T08:27:35+00:00'
 changed: '2019-09-24T14:32:46+00:00'
 
 

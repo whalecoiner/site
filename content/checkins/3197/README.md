@@ -1,7 +1,7 @@
 ---
 guid: b19688ec-1189-4e49-8b0c-f36f457198da
 title: 'Checked in at Cathedral of Saint John the Baptist, Wroclaw'
-created: '2019-09-11T11:14:00+00:00'
+date: '2019-09-11T11:14:00+00:00'
 changed: '2019-09-24T19:17:15+00:00'
 
 

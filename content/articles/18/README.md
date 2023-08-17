@@ -3,7 +3,7 @@ guid: 7f9cf621-a9a7-4ea2-b2b1-29e34045bce9
 id: 18
 title: Working with Jekyll and the asset pipeline
 slug: working-jekyll-and-asset-pipeline
-created: '2013-10-04T10:00:00+00:00'
+date: '2013-10-04T10:00:00+00:00'
 changed: '2019-09-24T19:20:54+00:00'
 strapline: It's actually quite exciting.
 

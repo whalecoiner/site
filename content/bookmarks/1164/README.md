@@ -1,7 +1,7 @@
 ---
 guid: 213d9587-bde7-4cb4-b29d-5188c5a5ab7f
 title: The Web I Want - DEV Community
-created: '2018-08-21T06:47:40+00:00'
+date: '2018-08-21T06:47:40+00:00'
 changed: '2019-09-24T14:33:51+00:00'
 
 

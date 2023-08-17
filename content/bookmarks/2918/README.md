@@ -1,7 +1,7 @@
 ---
 guid: 7f05cd39-94e0-4d46-bd7b-9aa7ce447431
 title: 'inessential: No Algorithms'
-created: '2019-07-05T05:37:04+00:00'
+date: '2019-07-05T05:37:04+00:00'
 changed: '2019-09-24T14:32:23+00:00'
 
 

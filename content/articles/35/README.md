@@ -2,7 +2,7 @@
 guid: 495c2956-275c-4438-9b6e-b83c0e9af8a9
 title: Setting the scope for Loom
 slug: loom-setting-the-scope
-created: '2016-10-08T11:30:00+00:00'
+date: '2016-10-08T11:30:00+00:00'
 changed: '2019-09-24T19:20:49+00:00'
 strapline: 'First in a series of posts on learning to write Loom, a new Sass framework.'
 ---

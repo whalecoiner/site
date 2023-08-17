@@ -1,7 +1,7 @@
 ---
 guid: 1f52f06b-431d-4466-8476-32e11c78f1c2
 title: '‘Never assume anything’: The golden rules for inclusive design'
-created: '2018-08-06T13:18:56+00:00'
+date: '2018-08-06T13:18:56+00:00'
 changed: '2019-09-24T14:33:54+00:00'
 
 

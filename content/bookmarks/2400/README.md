@@ -1,7 +1,7 @@
 ---
 guid: c9e08938-1db3-4eaf-a31f-f84c49bb472f
 title: Revisiting the rendering tier | Info | The Guardian
-created: '2019-04-06T17:28:33+00:00'
+date: '2019-04-06T17:28:33+00:00'
 changed: '2019-09-24T14:32:55+00:00'
 
 

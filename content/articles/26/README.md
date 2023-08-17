@@ -2,7 +2,7 @@
 guid: e54a9012-4da3-4e39-8156-4e85a3bf3ba1
 title: Migrating your team to Sass
 slug: migrating-your-team-to-sass
-created: '2014-11-04T10:00:00+00:00'
+date: '2014-11-04T10:00:00+00:00'
 changed: '2019-09-24T19:20:51+00:00'
 strapline: Migrating to a modern process is all about the planning.
 ---

@@ -1,7 +1,7 @@
 ---
 guid: a88dfed4-9d39-4a1b-af26-130a9316cc65
 title: The Next Big Blue-Collar Job Is Coding | WIRED
-created: '2018-12-30T20:06:12+00:00'
+date: '2018-12-30T20:06:12+00:00'
 changed: '2019-09-24T14:33:19+00:00'
 
 

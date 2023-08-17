@@ -1,6 +1,6 @@
 ---
 repost_of: 'https://twitter.com/transscribe/status/1410323673668591624?s=21'
-created: '2021-07-01T06:32:52.572Z'
+date: '2021-07-01T06:32:52.572Z'
 modified: '2021-07-01T06:32:52.572Z'
 guid: a071a758-6984-470a-93da-6272ad2f6571
 repost_of_oembed_twitter: >

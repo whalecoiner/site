@@ -2,7 +2,7 @@
 guid: 877e88ac-0f35-43a0-b7e1-e9d42f702699
 title: CMS via Dropbox
 slug: cms-dropbox
-created: '2018-09-23T10:01:00+00:00'
+date: '2018-09-23T10:01:00+00:00'
 changed: '2019-09-24T19:20:46+00:00'
 ---
 

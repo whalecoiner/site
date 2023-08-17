@@ -1,7 +1,7 @@
 ---
 guid: 6f894038-fc85-464f-b277-0b99f9ac879d
 title: 'Intent to Ship: prefers-reduced-motion'
-created: '2019-03-28T15:53:32+00:00'
+date: '2019-03-28T15:53:32+00:00'
 changed: '2019-09-24T14:33:05+00:00'
 
 

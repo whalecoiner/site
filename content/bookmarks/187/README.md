@@ -1,7 +1,7 @@
 ---
 guid: 49873367-584b-4cff-bbd4-36132b517110
 title: What if JavaScript wins?
-created: '2018-05-22T14:46:09+00:00'
+date: '2018-05-22T14:46:09+00:00'
 changed: '2019-09-24T14:33:59+00:00'
 
 

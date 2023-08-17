@@ -1,7 +1,7 @@
 ---
 guid: bc2dffcb-386e-4d29-8764-36baa2eb925a
 title: The Role of Utility Classes in Scalable CSS | David Clark Develops the Web
-created: '2016-08-22T05:39:31+00:00'
+date: '2016-08-22T05:39:31+00:00'
 changed: '2019-09-24T14:35:31+00:00'
 
 

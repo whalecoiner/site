@@ -4,7 +4,7 @@ title: >-
   A web of anxiety: accessibility for people with anxiety and panic disorders
   [Part 1] | The Paciello Group – Your Accessibility Partner (WCAG 2.0/508
   audits, VPAT, usability and accessible user experience)
-created: '2018-08-14T14:42:24+00:00'
+date: '2018-08-14T14:42:24+00:00'
 changed: '2019-09-24T14:33:51+00:00'
 
 

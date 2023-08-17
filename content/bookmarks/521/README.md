@@ -1,7 +1,7 @@
 ---
 guid: 9315470e-0412-4c9e-85c3-7808e51a5022
 title: 10 things to need to know about CSS
-created: '2016-03-11T19:15:26+00:00'
+date: '2016-03-11T19:15:26+00:00'
 changed: '2019-09-24T14:35:58+00:00'
 
 

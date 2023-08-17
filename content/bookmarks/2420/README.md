@@ -1,7 +1,7 @@
 ---
 guid: 480e16ee-ce79-4c96-9408-f2550052da25
 title: The “Backendification” of Frontend Development – Hacker Noon
-created: '2019-03-28T15:53:40+00:00'
+date: '2019-03-28T15:53:40+00:00'
 changed: '2020-04-19T04:05:01+00:00'
 
 

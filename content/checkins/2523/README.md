@@ -1,7 +1,7 @@
 ---
 guid: 2737a99a-477b-4061-98f9-79df0efaf745
 title: Checked in at Stone Brewing
-created: '2019-04-27T16:45:31+00:00'
+date: '2019-04-27T16:45:31+00:00'
 changed: '2019-09-24T19:17:40+00:00'
 
 

@@ -1,6 +1,6 @@
 ---
 quote_of: 'https://twitter.com/georgiacobrien/status/1369616386998349824?s=12'
-created: '2021-03-10T21:33:01.901Z'
+date: '2021-03-10T21:33:01.901Z'
 modified: '2021-03-10T21:33:01.901Z'
 guid: acd148da-fb3d-486a-9254-ce4a66785cec
 quote_of_oembed_twitter: >

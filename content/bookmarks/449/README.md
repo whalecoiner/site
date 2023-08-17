@@ -1,7 +1,7 @@
 ---
 guid: 64a182c3-253b-4538-841f-d58f66b85882
 title: 'CSS: The Perfect Print Stylesheet | NOUPE'
-created: '2016-07-12T11:37:46+00:00'
+date: '2016-07-12T11:37:46+00:00'
 changed: '2019-09-24T14:35:31+00:00'
 
 

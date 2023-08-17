@@ -2,7 +2,7 @@
 guid: 9e89ae41-494a-4111-b5d6-6de72a4c6c47
 title: Getting started with data science tools
 slug: data-science-tools
-created: '2018-02-03T23:00:00+00:00'
+date: '2018-02-03T23:00:00+00:00'
 changed: '2019-09-24T19:20:46+00:00'
 strapline: Using a microscope to hammer DNA
 ---

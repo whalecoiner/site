@@ -1,6 +1,6 @@
 ---
 quote_of: 'https://twitter.com/Ryanintheus/status/1376321731778932739'
-created: '2021-03-29T14:40:58.824Z'
+date: '2021-03-29T14:40:58.824Z'
 modified: '2021-03-29T14:40:58.824Z'
 guid: 09431b19-d829-4638-be1c-da9c0b0048ce
 quote_of_oembed_twitter: >

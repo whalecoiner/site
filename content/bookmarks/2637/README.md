@@ -1,7 +1,7 @@
 ---
 guid: 45038487-cf1a-4140-931c-075019e1ccdf
 title: 'I wrote the book on user-friendly design. What I see today horrifies me. '
-created: '2019-05-20T08:54:56+00:00'
+date: '2019-05-20T08:54:56+00:00'
 changed: '2019-09-24T14:32:43+00:00'
 
 

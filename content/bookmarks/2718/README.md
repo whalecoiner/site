@@ -1,7 +1,7 @@
 ---
 guid: 95481e20-1769-4c03-9c76-ac295ea64ff1
 title: Chrome to limit full ad blocking extensions to enterprise users - 9to5Google
-created: '2019-05-30T10:27:35+00:00'
+date: '2019-05-30T10:27:35+00:00'
 changed: '2019-09-24T14:32:40+00:00'
 
 

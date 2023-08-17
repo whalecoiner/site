@@ -1,7 +1,7 @@
 ---
 guid: 529cd539-715a-4bcf-9f1b-6aff68c7b8ef
 title: The "Developer Experience" Bait-and-Switch | Infrequently Noted
-created: '2018-09-11T18:47:13+00:00'
+date: '2018-09-11T18:47:13+00:00'
 changed: '2019-09-24T14:33:47+00:00'
 
 

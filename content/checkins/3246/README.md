@@ -1,7 +1,7 @@
 ---
 guid: 722739ee-1130-445d-aff3-93afa6b28d1e
 title: 'Checked in at PapalaCup, Berlin'
-created: '2019-09-19T10:16:00+00:00'
+date: '2019-09-19T10:16:00+00:00'
 changed: '2019-09-24T19:17:13+00:00'
 
 

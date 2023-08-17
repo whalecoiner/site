@@ -2,7 +2,7 @@
 guid: dee188d3-fc37-4bed-beb7-bde50d024cd4
 title: Setting up an OS X machine
 slug: setting-new-os-x-machine
-created: '2013-11-15T10:00:00+00:00'
+date: '2013-11-15T10:00:00+00:00'
 changed: '2019-09-24T19:20:54+00:00'
 strapline: Gotta get those techno-hipster points.
 ---

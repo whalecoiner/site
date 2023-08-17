@@ -1,7 +1,7 @@
 ---
 guid: e04a16f4-d975-4caa-a9c4-bb26d4bc2506
 title: A clean start for the web
-created: '2020-08-24T12:24:00+00:00'
+date: '2020-08-24T12:24:00+00:00'
 changed: '2020-08-24T12:24:00+00:00'
 bookmark_of: 'https://macwright.com/2020/08/22/clean-starts-for-the-web.html'
 ---

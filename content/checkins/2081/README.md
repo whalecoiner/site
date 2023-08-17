@@ -1,7 +1,7 @@
 ---
 guid: 7453e098-f969-4269-b71b-0489f0614bc2
 title: 'Checked in at Cafe Blå, Copenhagen'
-created: '2019-02-22T10:00:00+00:00'
+date: '2019-02-22T10:00:00+00:00'
 changed: '2019-09-24T19:17:52+00:00'
 
 

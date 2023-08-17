@@ -1,6 +1,6 @@
 ---
 quote_of: 'https://twitter.com/shonfaye/status/1359199889163436036'
-created: '2021-02-10T10:37:59.404Z'
+date: '2021-02-10T10:37:59.404Z'
 modified: '2021-02-10T10:37:59.404Z'
 guid: a98f52a9-3ac9-49a0-bb1c-ae228da4dcad
 ---

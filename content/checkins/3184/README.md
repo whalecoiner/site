@@ -1,7 +1,7 @@
 ---
 guid: d2f768fa-368c-4151-b5fa-8f7b819f9ab5
 title: 'Checked in at Dinette, Wroclaw'
-created: '2019-09-10T06:34:11+00:00'
+date: '2019-09-10T06:34:11+00:00'
 changed: '2019-09-24T19:17:17+00:00'
 
 
