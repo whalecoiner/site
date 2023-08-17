@@ -1,6 +1,5 @@
 ---
-date: '2020-10-30 09:54'
-changed: '2020-10-30 09:54'
+date: '2020-10-30T09:54'
 ---
 
 One of our gestalt of landlords has moved their daughter into our Haus, just as lockdown has started again.

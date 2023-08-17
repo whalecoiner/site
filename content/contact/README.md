@@ -1,7 +1,5 @@
 ---
 title: Contact her
-date: 2020-02-1T12:00 
-updated: 2020-02-1T12:00
 ---
 
 You wanna get in contact with me, eh?
