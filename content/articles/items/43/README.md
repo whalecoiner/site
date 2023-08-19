@@ -5,21 +5,6 @@ slug: a-day-without-javascript
 date: '2017-06-07T10:00:00+00:00'
 changed: '2019-09-24T19:20:46+00:00'
 strapline: What could go wrong?
-
-sections:
-  - feedly
-  - 24ways
-  - amazon
-  - bbcnews
-  - googlechrome
-  - googlemaps
-  - googlesearch
-  - netflix
-  - nytimes
-  - twitter
-  - wikipedia
-  - youtube
-  - conclusion
 ---
 
 As I write this it's raining outside, and I'm trying to avoid having to go out into the murk and watch the Germans conduct their annual [diversity maneuvers](http://www.karneval-berlin.de/en/). I've therefore decided to pass my time by doing the one thing that counts as a religious crime in web dev land: I'm going to turn off javascript in my browser and see what sites work and what sites don't. 
@@ -54,3 +39,141 @@ If this were the only manifestation of turning off javascript, I'd do this for t
 ## The sites
 
 Let's get to it. I think I've got a pretty representative list of sites in my open tabs (perhaps due to the aforementioned Tab Problem). Howl at me on Twitter if you feel I missed anything particularly important.
+
+
+
+### Feedly
+
+![](files/feedly.png)
+
+My very first attempt at sans-JS and I get nothing but a blank white page. 
+
+Fuck you feedly. 
+
+Where are you going? I...
+
+_sighs, runs hands over face, shouts after Feedly_.
+
+Wait no, Feedly, I'm sorry. I didn't mean that. It was the coffee talking. Can we talk this over? I like using you to keep up with blog posts.
+
+But why do you work like this, Feedly? Your devs _could_ offer the site in basic HTML and use advanced features such as, er, anchor links, to move to other articles. Then when JS is available, new content can be loaded via JS.
+
+*Verdict:* Relationship counselling.
+
+### 24 Ways
+
+![](files/feedly.png)
+
+I've had this open in my tabs for the last 6 months, meaning to read it. Look, I'M SORRY, okay? But holy fuck, this site works great without javascript. All the animations are there (because they're CSS) and the slide in navigation works (because it internally links to the static version of the menu at the bottom of the page).
+
+*Verdict:* Class act. Smoooooth. Jazzz.
+
+### Amazon
+
+![](files/amazon.png)
+
+The site looks a little... _off_ without JS (the myriad accordions vomit their content over the page when JS isn't there to keep them under control). But the entire site works! You can still search, you still get recommendations. You can still add items to your basket, and you can still proceed to the checkout.
+
+*Verdict:* Amazonian warrior.
+
+### BBC News
+
+![](files/bbc_news.png)
+
+It's the day after the latest London terrorism attacks, and so I've got this open, just to see how the media intensifies and aids every terrorist action. The BBC is the inventor and poster-child for progressive enhancement via Cutting the Mustard, and it doesn't disappoint. The non-CTM site works fully and while it doesn't _look_ the same as the full desktop site (it's mobile-first and so is pretty much the mobile version), it still _works_.
+
+*Verdict:* Colman's Mustard
+### Google Chrome
+
+![](files/chrome_download.png)
+
+The Google Chrome download page just fails completely, with no notice, only a blank white page.
+
+_Sigh_.
+
+*Verdict:* No Chrome for you, you dirty javascriptophobe!
+
+### Google Maps
+
+![](files/google_maps.png)
+
+Following Gmail, Google Maps is perhaps one of the most heavily used Single Page Applications out there. As such I expected some kind of fallback, like Gmail provides, even if it wasn't true progressive enhancement. Maybe some kind of Streetmap style tile-by-tile navigation fallback?
+
+But it failed completely.
+
+*Verdict:* Cartography catastrophe.
+
+### Google Search
+
+![](files/google.png)
+
+Without JS, Google still does what it's best at: searching.
+
+Okay, there's no autocomplete, the layout reverts to the early 2000s again, and image search is shockingly bad looking. But, in the best progressive enhancement manner, you can still perform your core tasks.
+
+*Verdict:* Solid.
+
+
+### Netflix
+
+![](files/netflix.png)
+
+I'm using netflix to try and indoctrinate my girlfriend into watching Star Trek. So far she's not convinced: "Tasha Yar _slept with Mr Data?_ But that would be like fucking your microwave!"
+
+Anyway, Netflix doesn't work. Well, it loads the header, if you want to count that. I get why they don't do things with HTML5 - DRMing all yo shit needs javascript. But still :(.
+
+*Verdict:* JavaScript-only is the New Black
+
+### NY Times
+
+![](files/nytimes_with_js.png)
+![](files/nytimes_sans_js.png)
+
+Not sure why this was in my tab list, but tbh I've found rotting tabs from 2015 in there, so I'm not surprised. 
+
+The NY Times site loads in _561ms_ and 957kb without javascript. Holy crap, that's what it should be like normally. For reference it took 12000ms (12seconds) and 4000kb (4mb) to load _with_ javascript. Oh, and as a bonus, you get a screenful of adverts. 
+
+A lot of images are lazy loaded, and so don't work, getting replaced with funky loading icons. But hey ho, I can still read the stories.
+
+*Verdict:* Failing... to _not_ work. Sad!
+
+### Twitter
+
+![](files/twitter.png)
+
+Twitter shows the normal website (with full content) for a brief moment, then redirects to [mobile.twitter.com](https://mobile.twitter.com) (the old one, not the spanky new React one, of course). This is really frustrating, as the full site would still be great to load without javascript. It could use the same navigation method as the mobile site, where it sets a query parameter to the URL "?max_id=871333359884148737" that dictates what is the latest tweet in your timeline to show. Simple and elegant. 
+
+*Verdict:* Could try harder.
+
+
+### Wikipedia
+
+![](files/wikipedia.png)
+
+Like a good friend, Wikipedia never disappoints. The site is indistinguishable from the JS version. Keep being beautiful, Wikipedia.
+
+*Verdict:* BFFs.
+
+
+### Youtube
+
+![](files/youtube.png)
+
+Youtube really really wants to load. Really, reallllllly, wants to. But then it fucks things up at the last nanosecond and farts out, showing no video, no preview icons, and no comments (that last one is perhaps a positive).
+
+Even if the site is doing some funky blob loading of video media, it wouldn't be hard to put a basic version on the page initially (with `preload="none"`), and then have it upgrade when JS kicks in.
+
+*Verdict:* Can't watch My Drunk Kitchen or Superwoman. :( :( :(
+
+
+## Final Verdict
+
+This has made me appreciate the number of large sites that make the effort to build robust sites that work for everybody. But even on those sites that are progressively enhanced, it's a sad indictment of things that they can be so slow on the multi-core hyperpowerful Mac that I use every day, but immediately become fast when JavaScript is disabled.
+
+It's even sadder when using a typical site and you realise how much Javascript it downloads. I now know why my 1GB mobile data allowance keeps burning out at least... 
+
+I maintain that it's perfectly possible to use the web without javascript, especially on those sites that are considerate to the diversity of devices and users out there. And if I want to browse the web without javascript, well fuck, that's my choice as a user. This is the web, not the Javascript App Store, and we should be making sure that things work on even the most basic device.
+
+I think I'm going to be turning off javascript more, just on principle.
+
+Haters, please tweet at me as you feel fit.
