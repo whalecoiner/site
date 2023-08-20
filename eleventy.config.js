@@ -93,10 +93,9 @@ module.exports = function (eleventyConfig) {
 		});
 	});
 
-
 	eleventyConfig.addFilter("dropItemsDir", function (path) {
 		return path.replace("/items", "");
-	})
+	});
 
 	// Features to make your build faster (when you need them)
 
