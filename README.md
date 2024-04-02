@@ -2,20 +2,16 @@
 
 A static website built from Markdown into HTML via [11ty](https://www.11ty.dev/).
 
-## Installation
 
-Ensure nvm is present.
+## tl;dr installation
+
+It's a node app. Clone it, install the dependencies, run the site builder.
 
 ```bash
-brew install nvm
+npm i && npm run build
 ```
 
-Add the following to `.zshrc`.
-```bash
-export NVM_DIR="$HOME/.nvm"
-[ -s "/usr/local/opt/nvm/nvm.sh" ] && \. "/usr/local/opt/nvm/nvm.sh"  # This loads nvm
-[ -s "/usr/local/opt/nvm/etc/bash_completion.d/nvm" ] && \. "/usr/local/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
-```
+## Grown-up Installation
 
 Clone this repo and change to the working directory.
 
@@ -24,13 +20,27 @@ git clone git@github.com:whalecoiner/site.git
 cd site
 ```
 
-Install Node Version Manager.
+Install [Node Version Manager](https://github.com/nvm-sh/nvm).
+
+```bash
+brew install nvm
+```
+
+Add the following to `.zshrc` to allow nvm to work.
+
+```bash
+export NVM_DIR="$HOME/.nvm"
+[ -s "/usr/local/opt/nvm/nvm.sh" ] && \. "/usr/local/opt/nvm/nvm.sh"  # This loads nvm
+[ -s "/usr/local/opt/nvm/etc/bash_completion.d/nvm" ] && \. "/usr/local/opt/nvm/etc/bash_completion.d/nvm"  # This loads nvm bash_completion
+```
+
+Install the required version of node.
 
 ```bash
 nvm install
 ```
 
-Install node dependencies.
+Install node application dependencies via npm.
 
 ```bash
 npm install
