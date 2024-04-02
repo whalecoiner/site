@@ -46,7 +46,13 @@ Install node application dependencies via npm.
 npm install
 ```
 
-Build the site.
+Start a local dev server at <http://localhost:8080/>.
+
+```bash
+npm start
+```
+
+Just build the site.
 
 ```bash
 npm run build
