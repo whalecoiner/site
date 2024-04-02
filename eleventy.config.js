@@ -93,10 +93,6 @@ module.exports = function (eleventyConfig) {
 		});
 	});
 
-	eleventyConfig.addFilter("dropItemsDir", function (path) {
-		return path.replace("/items", "");
-	});
-
 	// Features to make your build faster (when you need them)
 
 	// If your passthrough copy gets heavy and cumbersome, add this line
@@ -105,6 +101,14 @@ module.exports = function (eleventyConfig) {
 
 	// eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
 
+	// Ignore the `items` directory in every content type.
+	// (the dir is there just to make things neater)
+	eleventyConfig.addFilter("dropItemsDir", function (path) {
+		return path.replace("/items", "");
+	});
+
+	// Convert README.md files in each content type into a HTML file.
+	// (I like README.md - it lets me read posts easily when I browse this via Github)
 	eleventyConfig.addCollection('readme', collection => {
 		return collection.getAllSorted().map(item => {
 			if (item.fileSlug === 'README') {

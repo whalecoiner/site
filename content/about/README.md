@@ -23,8 +23,6 @@ I'm a 40-something woman living in [Berlin](/posts/berlin), Germany (the famous 
 
 I'm a front end developer, which means I build the interfaces for the sites that you use every day. I specialise in creating simple, robust, and inclusive solutions. I have no time for the latest trends that appease the technological fetishising areas of the web community.
 
-
-
 ## Personal
 
 If you define me as a _person_ then I'm a [photography-taking](https://flickr.com/photos/sonniesedge), bike riding, beer drinking, feminist leftie. 
