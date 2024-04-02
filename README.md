@@ -20,7 +20,7 @@ git clone git@github.com:whalecoiner/site.git
 cd site
 ```
 
-Install [Node Version Manager](https://github.com/nvm-sh/nvm).
+Install [Node Version Manager](https://github.com/nvm-sh/nvm). (I'm on a Mac. Bite me.)
 
 ```bash
 brew install nvm
