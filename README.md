@@ -1,6 +1,6 @@
-# whalecoiner.com
+# Charlie's Personal Website.
 
-My personal website.
+A static website built from Markdown into HTML via [11ty](https://www.11ty.dev/).
 
 ## Installation
 
